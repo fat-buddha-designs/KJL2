@@ -1,0 +1,47 @@
+title: Testimonials Page
+icon: 🏠
+
+tabs:
+  content:
+    label: Testimonials
+    pages: testimonials
+    columns:
+      sections:
+        fields:
+          pageHeadline:
+            label: Page Headline
+            type: text
+            width: 1/2
+          pageContent:
+            label: Page Content
+            editor:
+            type: markdown
+            font:
+              family: sans-serif
+              scaling: false
+              size: regular
+            buttons:
+              - headlines
+                  - h1
+                  - h2
+                  - h3
+                  - h4
+                  - h5
+                  - h6
+              - bold
+              - italic
+
+          testimonials:
+            type: structure
+            label: Testimonials
+            fields:
+              text:
+                label: Testimonial Text
+                type: textarea
+
+
+  seo:
+    type: fields
+    label: Testimonials SEO
+    fields:
+      meta: fields/pageseo

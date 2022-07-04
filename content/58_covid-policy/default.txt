@@ -1,0 +1,47 @@
+Title: Covid Policy
+
+----
+
+Pageheadline: Covid Policy
+
+----
+
+Pagecontent:
+
+In light of government guidance on working practices, KJL Solicitors have adapted the way we run our office, in a measure to keep all of our staff and clients safe. These measure will not reduce your access to our experienced and qualified lawyers or our ability to deal professionally and timely on your matters. 
+
+The only difference is how we take your instructions and deliver advice and services on your behalf.
+
+We now operate a ‘strictly by appointment only’ policy at our Blofield office. 
+
+Where possible we will take all instructions by email, telephone, video conferencing via Zoom, WhatsApp, Facetime, Messenger or Skype.
+
+Where face-to-face meetings are unavoidable, for example, for the execution and witnessing of wills, appointments will be given at the office where we have adopted strict social distancing measures to ensure meetings are conducted in safe and properly distanced manner.
+
+Some of our staff are working from home but equally this should not hamper your experience of dealing with KJL Solicitors and their qualified teams.
+
+----
+
+Pagetitle: Covid Policy
+
+----
+
+Keywords: Covid, Covid-19, Coronavirus, Policy
+
+----
+
+Description: In view of government guidance on working, KJL Solicitors have adapted the way we run our office, to keep all of our staff and clients are safe.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow

@@ -1,0 +1,110 @@
+:root {
+  --pri-color-h: 354;
+  --pri-color-s: 73%;
+  --pri-color-l: 43%;
+  --sec-color-h: 0;
+  --sec-color-s: 0%;
+  --sec-color-l: 93%;
+  --g-color-h: 0;
+  --g-color-s: 0%;
+  --g-color-l: 99%;
+  --f-color-h: 360;
+  --f-color-s: 0%;
+  --f-color-l: 40%;
+  --f-color-inv-h: 180;
+  --f-color-inv-s: 0%;
+  --f-color-inv-l: 90%;
+  --link-color-h: 354;
+  --link-color-s: 73%;
+  --link-color-l: 43%;
+  --bkgd-color-h: 0;
+  --bkgd-color-s: 0%;
+  --bkgd-color-l: 99%;
+  --blk-color: hsl(0, 0%, 0%);
+  --wh-color: hsl(0, 0%, 100%);
+  --orange-color-drk: hsl(var(--orange-hue), 70%, 30%);
+  --orange-color: hsl(var(--orange-hue), 70%, 50%);
+  --orange-color-lgt: hsl(var(--orange-hue), 70%, 70%);
+  --red-color-drk: hsl(var(--red-hue), 70%, 30%);
+  --red-color: hsl(var(--red-hue), 70%, 50%);
+  --red-color-lgt: hsl(var(--red-hue), 70%, 70%);
+  --green-color-drk: hsl(var(--green-hue), 70%, 30%);
+  --green-color: hsl(var(--green-hue), 70%, 50%);
+  --green-color-lgt: hsl(var(--green-hue), 70%, 70%);
+  --yellow-color-drk: hsl(var(--yellow-hue), 70%, 30%);
+  --yellow-color: hsl(var(--yellow-hue), 70%, 50%);
+  --yellow-color-lgt: hsl(var(--yellow-hue), 70%, 70%);
+  --twitter-color: #55acee;
+  --facebook-color: #3b5998;
+  --instagram-color: #e95950;
+  --pinterest-color: #cb2027;
+  --linkedin-color: #007bb5;
+  --whatsapp-color: #4dc247;
+  --youtube-color: #cc181e;
+
+  --pri-color: hsl(var(--pri-color-h), var(--pri-color-s), var(--pri-color-l));
+  --pri-color-lgt: hsl(var(--pri-color-h), var(--pri-color-s), calc(var(--pri-color-l) / 0.8));
+  --pri-color-drk: hsl(var(--pri-color-h), var(--pri-color-s), calc(var(--pri-color-l) * 0.8));
+  --sec-color: hsl(var(--sec-color-h), var(--sec-color-s), var(--sec-color-l));
+  --sec-color-lgt: hsl(var(--sec-color-h), var(--sec-color-s), calc(var(--sec-color-l) / 0.8));
+  --sec-color-drk: hsl(var(--sec-color-h), var(--sec-color-s), calc(var(--sec-color-l) * 0.8));
+  --bkgd-color: hsl(var(--bkgd-color-h), var(--bkgd-color-s), var(--bkgd-color-l));
+  --bkgd-color-lgt: hsl(var(--bkgd-color-h), var(--bkgd-color-s), calc(var(--bkgd-color-l) / 0.8));
+  --bkgd-color-drk: hsl(var(--bkgd-color-h), var(--bkgd-color-s), calc(var(--bkgd-color-l) * 0.8));
+  --f-color: hsl(var(--f-color-h), var(--f-color-s), var(--f-color-l));
+  --f-color-lgt: hsl(var(--f-color-h), var(--f-color-s), calc(var(--f-color-l) / 0.8));
+  --f-color-drk: hsl(var(--f-color-h), var(--f-color-s), calc(var(--f-color-l) * 0.8));
+  --link-color: hsl(var(--link-color-h), var(--link-color-s), var(--link-color-l));
+  --link-color-lgt: hsl(var(--link-color-h), var(--link-color-s), calc(var(--link-color-l) / 0.8));
+  --link-color-drk: hsl(var(--link-color-h), var(--link-color-s), calc(var(--link-color-l) * 0.8));
+  --f-color-inv: hsl(var(--f-color-inv-h), var(--f-color-inv-s), var(--f-color-inv-l));
+  --f-color-inv-lgt: hsl(var(--f-color-inv-h), var(--f-color-inv-s), calc(var(--f-color-inv-l) / 0.8));
+  --f-color-inv-drk: hsl(var(--f-color-inv-h), var(--f-color-inv-s), calc(var(--f-color-inv-l) * 0.8));
+  --g-color: hsl(var(--g-color-h), var(--g-color-s), var(--g-color-l));
+  --g-color-1: hsl(var(--g-color-h), var(--g-color-s), calc(var(--g-color-l) * 0.95));
+  --g-color-2: hsl(var(--g-color-h), var(--g-color-s), calc(var(--g-color-l) * 0.8));
+  --g-color-3: hsl(var(--g-color-h), var(--g-color-s), calc(var(--g-color-l) * 0.7));
+  --g-color-4: hsl(var(--g-color-h), var(--g-color-s), calc(var(--g-color-l) * 0.6));
+  --g-color-5: hsl(var(--g-color-h), var(--g-color-s), calc(var(--g-color-l) * 0.5));
+  --g-color-6: hsl(var(--g-color-h), var(--g-color-s), calc(var(--g-color-l) * 0.4));
+  --g-color-7: hsl(var(--g-color-h), var(--g-color-s), calc(var(--g-color-l) * 0.3));
+  --g-color-8: hsl(var(--g-color-h), var(--g-color-s), calc(var(--g-color-l) * 0.2));
+  --g-color-9: hsl(var(--g-color-h), var(--g-color-s), calc(var(--g-color-l) * 0.1));
+  --box-shadow-color: rgba(0, 0, 0, .05);
+
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --f-color-s: 10%;
+    --f-color-l: 70%;
+    --f-color-inv-h: 180;
+    --f-color-inv-l: 50%;
+    --link-color-l: 60%;
+    --bkgd-color-l: 8%;
+    --pri-color-l: 33%;
+    --sec-color-l: 20%;
+    --g-color-l: 18%;
+  }
+}
+
+[data-theme='light'] {
+  --bkgd-color: hsl(var(--bkgd-color-h), var(--bkgd-color-s), var(--bkgd-color-l));
+  --pri-color: hsl(var(--pri-color-h), var(--pri-color-s), var(--pri-color-l));
+  --sec-color: hsl(var(--sec-color-h), var(--sec-color-s), var(--sec-color-l));
+  --link-color: hsl(var(--link-color-h), var(--link-color-s), var(--link-color-l));
+  --f-color: hsl(var(--f-color-h), var(--f-color-s), var(--f-color-l));
+  --f-color-inv: hsl(var(--f-color-inv-h), var(--f-color-inv-s), var(--f-color-inv-l));
+}
+
+[data-theme='dark'] {
+  --f-color-s: 10%;
+  --f-color-l: 70%;
+  --f-color-inv-h: 180;
+  --f-color-inv-l: 50%;
+  --link-color-l: 60%;
+  --bkgd-color-l: 8%;
+  --pri-color-l: 33%;
+  --sec-color-l: 20%;
+  --g-color-l: 18%;
+}

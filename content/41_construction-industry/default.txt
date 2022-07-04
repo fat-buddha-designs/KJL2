@@ -1,0 +1,55 @@
+Title: Construction Industry
+
+----
+
+Pageheadline: Construction Industry
+
+----
+
+Pagecontent:
+
+(link: /contracts-of-employment arialabel: Contracts of Employment text: Contracts of Employment)
+(link: /construction-industry arialabel: Construction Industry text: Construction Industry)
+(link: /disciplinary-procedures arialabel: Disciplinary Procedures text: Disciplinary Procedures)
+(link: /managing-redundancy arialabel: Managing Redundancy text: Managing Redundancy)
+(link: /restrictive-covenants arialabel: Restrictive Covenants text: Restrictive Covenants)
+(link: /settlement-agreements arialabel: Settlement Agreements text: Settlement Agreements)
+(link: /transfer-of-undertakings arialabel: Transfer of Undertakings text: Transfer of Undertakings)
+
+The Inland Revenue under the Income Tax (Construction Industry Scheme) Regulations 2005 sought to switch the onus from subcontractor to hirer in determining the status of its workers.
+
+Case History - In 2006 the Inland Revenue was satisfied that our Client’s subcontractors were of a self employed status. However as a result the Construction (Design and Management) Regulations 2006 which consolidated the Construction (Heath Safety and Welfare) Regulations 1996 and come into force on the 6th April 2007 the position of whether a sub-contractor was actually an employee became the hot topic of the day.
+
+In order to protect the company (as you could be sued for back tax retrospectively if you failed to recognise the workers employment status in breach of the Regulations) we had to change subcontractors and contractors of this and many other businesses to employees of the various companies instructing us and provide the workers with employment contracts.
+
+Subcontractors had enjoyed more favourable tax rates which their employed counterparts had not and companies were being forced to change the way pay schemes ran to take account of tax and national insurance contributions they had traditionally avoided.
+
+The Regulations saw massive changes within the industry as a whole and we were able to assist with the consultation process and implications of those changes. 
+
+Despite fierce resistance from contractors being turned from self employed into contractually employed workers, we managed to effect those changes with a host of businesses without a single tribunal or county court claim being issued.
+
+----
+
+Pagetitle: Construction Industry
+
+----
+
+Keywords: Construction Industry, subcontractors, tax, Regulations, HMRC
+
+----
+
+Description: HMRC under the Income Tax Regulations 2005 sought to switch the onus from subcontractor to hirer in determining the status of its workers.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow

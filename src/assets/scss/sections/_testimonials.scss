@@ -1,0 +1,15 @@
+.testimonial--block {
+  background-color: var(--g-color-1);
+  border: var(--bor);
+  border-left: 4px solid var(--pri-color);
+  border-radius: var(--bor-rad);
+  box-shadow: var(--shadow-sm);
+  color: var(--f-color);
+  margin-bottom: 1rem;
+  padding: 1rem;
+  text-align: left;
+
+  p {
+    margin-bottom: 0;
+  }
+}

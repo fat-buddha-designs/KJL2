@@ -1,0 +1,27 @@
+{
+  "name": "kjl-solicitors",
+  "description": "KJL Solicitors website based on Kirby CMS",
+  "version": "1.0.0",
+  "author": "Will Moody",
+  "license": "ISC",
+  "main": "vite.config.js",
+  "scripts": {
+    "vite": "vite",
+    "dev": "shx touch src/.lock && concurrently \"npm:server\" \"npm:vite\"",
+    "server": "php -S localhost:8888 -t public server.php",
+    "build": "shx rm -f src/.lock && vite build",
+    "preview": "npm run build && npm run server"
+  },
+  "devDependencies": {
+    "concurrently": "^7.0.0",
+    "shx": "^0.3.3",
+    "vite": "^2.0.5",
+    "vite-plugin-live-reload": "^2.0.0"
+  },
+  "dependencies": {
+    "cookies-eu-banner": "^2.0.1",
+    "fastclick": "^1.0.6",
+    "jquery-slim": "^3.0.0",
+    "sass": "^1.52.3"
+  }
+}

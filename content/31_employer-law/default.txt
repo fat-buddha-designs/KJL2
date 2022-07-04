@@ -1,0 +1,49 @@
+Title: Employer Law
+
+----
+
+Pageheadline: Employer Law
+
+----
+
+Pagecontent:
+
+(link: /contracts-of-employment arialabel: Contracts of Employment text: Contracts of Employment)
+(link: /construction-industry arialabel: Construction Industry text: Construction Industry)
+(link: /disciplinary-procedures arialabel: Disciplinary Procedures text: Disciplinary Procedures)
+(link: /managing-redundancy arialabel: Managing Redundancy text: Managing Redundancy)
+(link: /restrictive-covenants arialabel: Restrictive Covenants text: Restrictive Covenants)
+(link: /settlement-agreements arialabel: Settlement Agreements text: Settlement Agreements)
+(link: /transfer-of-undertakings arialabel: Transfer of Undertakings text: Transfer of Undertakings)
+
+We advise on all aspects of employment law, we are members of the Employment Lawyers Association are specialists in our field and regularly write articles and provide seminars for businesses on the latest employment law issues.
+
+Navigate the top menus for specific areas or alternatively telephone KJL Solicitors on (tel: 01603717520  arialabel: call KJL Solicitors  text: 01603 717520) and see how we can assist you with all your employment needs.
+
+From December 2010 not only will KJL Solicitors be able to provide an employment law helpline but we will also be able to assist you with workplace mediations.
+
+----
+
+Pagetitle: Employer Law
+
+----
+
+Keywords: Advise, Aspects, Employment law, Employment Lawyers Association, Specialist, Solicitors, Norwich, Norfolk
+
+----
+
+Description: We advise on all aspects of employment law, we are members of the Employment Lawyers Association and are specialist solicitors in our field.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow

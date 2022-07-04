@@ -1,0 +1,41 @@
+Title: Conveyancing Guides
+
+----
+
+Pageheadline: Conveyancing Guides
+
+----
+
+Pagecontent:
+
+Follow thew links below to KJL Solicitors guides to buying and selling your property:
+
+(link: /assets/pdf/buyers-guide.pdf download: download text: Buyers Guide)
+
+(link: /assets/pdf/sellers-guide.pdf download: download text: Sellers Guide)
+
+----
+
+Pagetitle: Conveyancing Guides
+
+----
+
+Keywords: Conveyancing, guide, sellers,buyers,solicitors, Norwich, Blofield
+
+----
+
+Description: We have produced comprehensive conveyancing guides that are available for both sellers and buyers alike, please follow the links.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow

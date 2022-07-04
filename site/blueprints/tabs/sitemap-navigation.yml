@@ -1,0 +1,11 @@
+columns:
+  - width: 1/2
+    sections:
+      sitemap-navigation:
+        type: fields
+        fields:
+          navigation:
+            label: Sitemap Navigation
+            type: navigation
+            levels: 5
+            help: Description of menu or where it is used

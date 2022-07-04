@@ -1,0 +1,91 @@
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+select,
+input[type=text],
+input[type=email],
+input[type=tel],
+input[type=password],
+input[type=number],
+input[type=search],
+input[type=textarea],
+textarea {
+  appearance: none;
+  background-color: var(--sec-color);
+  border: var(--bor);
+  border-radius: var(--bor-rad);
+  box-shadow: var(--shadow-md);
+  font-family: inherit;
+  font-size: fluid-type(20rem, 64rem, 1rem, 1.2rem);
+  height: auto;
+  margin-bottom: 1rem;
+  margin-left: 0;
+  outline: none;
+  padding: .6rem;
+  width: 300px;
+
+  &:focus {
+    border-color: var(--pri-color);
+  }
+
+  &.full--width {
+    width: 100%;
+  }
+}
+
+input[type=submit] {
+  background-color: var(--pri-color);
+  border: var(--bor);
+  border-radius: var(--bor-rad);
+  box-shadow: var(--shadow-md);
+  color: var(--wh-color);
+  font-family: inherit;
+  font-size: 1.2em;
+  height: auto;
+  margin-bottom: 1rem;
+  margin-left: 0;
+  outline: none;
+  padding: .6rem 1.2rem;
+  transition: all var(--dur) var(--trans);
+  width: 300px;
+
+  &:hover,
+  &:focus {
+    background-color: var(--pri-color-drk);
+    font-style: italic;
+  }
+
+  &.full--width {
+    width: 100%;
+  }
+}
+
+textarea {
+  height: 12rem;
+  overflow: hidden;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:active,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:hover {
+  -webkit-text-fill-color: var(--pri-color);
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+form {
+  margin-bottom: 0;
+  padding: 0;
+}
+
+::placeholder {
+  color: var(--f-color);
+  opacity: 1;
+}
+
+::-ms-input-placeholder {
+  color: var(--f-color);
+}
+

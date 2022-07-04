@@ -1,0 +1,65 @@
+Title: Employee Law
+
+----
+
+Pageheadline: Employee Law
+
+----
+
+Pagecontent:
+
+(link: /business-sales-affecting-the-employee arialabel: Business Sales Affecting the Employee text: Business Sales Affecting the Employee)
+(link: /contracts-of-employment-terms-and-conditions-variations arialabel: Contracts of Employment Terms & Conditions & Variations text: Contracts of Employment Terms & Conditions & Variations)
+(link: /disciplinary-and-grievance-procedures arialabel: Disciplinary & Grievance Procedures text: Disciplinary & Grievance Procedures)
+(link: /new-acas-code-on-disciplinary-and-grievance-procedures arialabel: New Acas Code on Disciplinary & Grievance Procedures  text: New Acas Code on Disciplinary & Grievance Procedures)
+(link: /redundancy arialabel: Redundancy text: Redundancy)
+(link: /settlement-agreements-for-the-employee arialabel: Settlement Agreements for the Employee  text: Settlement Agreements for the Employee)
+(link: /unfair-wrongful-or-constructive-dismissal arialabel: Unfair Wrongful or Constructive Dismissal text: Unfair Wrongful or Constructive Dismissal)
+
+Employees are far more aware of their rights and Employers are far more regularly finding themselves having to defend Tribunal Claims and Legal Proceedings. 
+
+It should be noted that there are strict time limits in making an Employment Claim and if you are considering a claim we suggest you contact us as soon as possible to review whether you have a potentially viable claim.
+
+Often Employees just want to know where they stand in a current situation so they can assess their rights and any possible remedies they may have in order to move a potentially contentious situation forward.
+
+If however, you are unable to resolve a dispute with your Employer.
+
+We will assist you in the filling out of Tribunal forms so you can bring a claim against your employer, we will guide you through and act on your behalf through the process.
+
+If your matter requires County or High Court action depending on the nature and value of your claim we will similarly advise and act for you throughout the entire process.
+
+We negotiate and will give specific advice to employees when they are being asked to sign Compromise agreements for loss of office or termination of their position.
+
+We will also advise you on the terms and conditions contained within any compromise agreement and explain the risks you may face on leaving your employment in respect of post termination restrictions.
+
+Some employees may have legal expenses insurance on their home and contents insurance policies. 
+
+You should check whether you have such insurance in place as it may cover your legal costs in bringing a Tribunal Claim. 
+
+Similarly if you are a member of a Union you may be entitled to some help with your legal costs.
+
+----
+
+Pagetitle: Employee Law
+
+----
+
+Keywords: Employees, Tribunal, Tribunal claim, Compromise agreement, Legal, Proceedings, Solicitors, Norfolk
+
+----
+
+Description: Employees are more aware of their rights and Employers are more regularly finding themselves having to defend Tribunal Claims and Legal Proceedings.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow

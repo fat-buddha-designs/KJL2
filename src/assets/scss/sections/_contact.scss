@@ -1,0 +1,67 @@
+.contact {
+  padding: 2rem .6rem;
+
+  ul {
+    list-style: none;
+  }
+
+  .contact--left {
+    padding: .6rem;
+
+    .address {
+      list-style: none;
+
+      li::before {
+        content: '';
+        margin-right: .5rem;
+      }
+    }
+  }
+
+  .contact--right {
+    margin-top: 1rem;
+    padding: 0 .6rem;
+
+    .policy--notice p {
+      font-size: .9em;
+      margin-bottom: 2rem;
+
+      a {
+        font-size: inherit;
+      }
+    }
+  }
+}
+
+@include respond-to(sm) {
+  .contact {
+    width: 100%;
+
+    .contact--block {
+      display: flex;
+      flex-direction: row;
+      width: 100%;
+
+      .contact--left {
+        min-width: 50%;
+      }
+
+      .contact--right {
+        min-width: 50%;
+      }
+    }
+  }
+}
+
+form.directions {
+  display: flex;
+  flex-flow: row wrap;
+
+  input:first-of-type {
+    margin-right: 1rem;
+  }
+}
+
+#gmap_canvas {
+  box-shadow: var(--shadow-md);
+}

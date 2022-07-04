@@ -1,0 +1,205 @@
+Title: Policies
+
+----
+
+Pageheadline: Accessibility, Cookies And Privacy Policies
+
+----
+
+Pagecontent:
+
+## Accessibility Policy
+
+We’ve built this website to make it easier for all web users to contact 'KJL Solicitors' or find out more about us.
+
+You can always zoom in or out if that works better for you.
+
+Press CTRL + PLUS SIGN (+) to zoom in.
+
+Press CTRL + HYPHEN (-) to zoom out.
+
+We have added ALT tags to all images, ALT Tags are invisible descriptions of images which are read aloud to blind users on a screen reader. Adding ALT text allows us to include images, but still provide the content in an alternative text based format. If no ALT tags are provided, then a screen reader would only be able to say "IMAGE" or perhaps provide a file name, which is not helpful and does not make for a good experience.
+
+We also make use of Accessible Rich Internet Applications (ARIA) attributes where possible. ARIA is a set of special accessibility attributes which can be added to any markup, but is especially suited to HTML. The role attribute defines what the general type of object is (such as an article, alert, or slider).
+
+The aria-label attribute is used to define a string that labels the current element. Use it in cases where a text label is not visible on the screen.
+
+The aria-hidden attribute is used to hide elements, such as icon names; that would otherwise make following a web page difficult for screen readers.
+
+We have included a Langauge Tag, this tag is designed to signal screen readers pronunciation engines which language to use.
+
+We also avoid the use of flashing images, so as not to effect people who are prone to photosensitive epilepsy, as per the World Wide Web Consortium (W3C) guidelines.
+
+Where we have used moving images, we ensure that the movement lasts no longer than 5  seconds as per WCAG 2.0 Success Criterion 2.2.2 (Level A).
+
+## Cookies Policy
+
+When you view this website, we may store some information on your computer in the form of a cookie file (referred to here as "Cookies"), which will enable us to tailor the site to improve your browsing experience. Cookies are small text files that are placed on your computer by websites that you visit.
+
+The Cookies we use on the Site can be described as follows:
+
+CMSSESSID[unique id] - used to maintain continuity as you move between pages in the Site and expire when you close your web browser.
+
+**Cookies used by Google Analytics**
+
+utma - this cookie keeps track of the number of times a visitor has been to the Site, as well as information about when their first visit was, and when their last visit occurred. All data is anonymous and expires 2 years from set up.
+
+utmb andutmc - these cookies work together to calculate how long a visit takes. utmb takes a timestamp of the exact moment in time when a visitor enters the Site, while utmc takes a timestamp of the exact moment in time when a visitor leaves. The cookies effect can be said to wait 30 minutes for another pageview to happen, and if it does not, they expire.
+
+utmz - this cookie allows analytics to ascertain where the visitor came from, what search engine was used, what link the user clicked on, what keyword was used, and from where in the world the Site was accessed. It is used to calculate search engine traffic, advertising campaigns and page navigation within the Site and expires 6 months after set up.
+
+
+## Privacy Policy
+
+This privacy policy forms part of the terms of use that govern your use of the KJL Solicitors website.
+
+We are committed to protecting the privacy of the visitors to our website. This policy explains how we use any personal information we collect from you through our website.
+
+### Collecting your information
+
+You can access most of the pages on our website without giving us your personal information. However, you may choose to provide us with your personal information on some pages of our website, for instance by completing an enquiry form, requesting a publication, or expressing an interest in a seminar. 
+By submitting your personal information, you consent to our use of the information as set out in this privacy policy.
+
+### Using your information
+
+We shall use any personal information you give us in accordance with this policy and in the privacy statements that appear on the forms through which you submit your personal information.
+
+If you give us your personal information, we may from time to time contact you by mail, telephone, or email to provide information that may be of interest to you, including details about the services we offer, newsletters, legal updates and invitations to events. 
+We may disclose your information to our agents and service providers for these purposes. 
+We shall give you an opportunity to choose not to receive marketing information before you submit your personal information.
+
+If you are providing us with personal information by completing an employment application form, we shall use the information you supply to assess and administer your application, and shall keep a copy of your CV and application form on file in case any suitable opportunities arise in future.
+
+### Cookies
+
+Please see our cookie policy above for more information on how we use cookies on our website.
+
+### Accessing your personal information
+
+You have a right to ask us to provide you with the information we hold about you and to have any inaccuracies corrected. Please note that we charge a £10 fee for this to cover our costs.
+
+### Contact
+
+If you have any queries or requests in respect of this policy, e.g., a request to stop sending you marketing information or to cease all contact with you, you should contact us:
+
+By post at KJL Solicitors Ltd, Blofield Chambers, The Street, Blofield, NR13 4AA
+Please mark your correspondence for the attention of Kerry Joan-Law.
+
+----
+
+Pagetitle: Accessibility, Cookies And Privacy Policy
+
+----
+
+Keywords: Accessibility, Cookies, Privacy, Policy, Policies
+
+----
+
+Description: These Policies relate to how KJL Solicitors keep and store data and information about people who contact them using the website.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow
+
+----
+
+Seo-description: We care about our policies, we have a policy for Accessibility, Cookies and Privacy.
+
+----
+
+Seo-keywords: Policies, Accessibility, Cookies, Privacy
+
+----
+
+Text:
+
+### Accessibility Policy
+We’ve built this website to make it easier for all web users to contact 'Fat Buddha Designs' or find out more about us.
+
+‘Fat Buddha Designs’ is committed to providing a website that is accessible to the widest possible audience, regardless of technology or ability. We are actively working to increase the accessibility and usability of our website and in doing so adhere to many of the available standards and guidelines.
+
+Our checkpoints are taken from the technical standard Web Content Accessibility Guidelines 2.0 (WCAG), published by the World Wide Web Consortium (W3C).
+
+You can always zoom in or out if that works better for you.
+
+ Press CTRL + PLUS SIGN (+) to zoom in.
+
+ Press CTRL + HYPHEN (-) to zoom out.
+
+We have added ALT tags to all images, ALT Tags are invisible descriptions of images which are read aloud to blind users on a screen reader. Adding ALT text allows us to include images, but still provide the content in an alternative text-based format. If no ALT tags are provided, then a screen reader would only be able to say "IMAGE" or perhaps provide a file name.
+
+We also make use of Accessible Rich Internet Applications (ARIA) attributes where possible. ARIA is a set of special accessibility attributes which can be added to any markup, but is especially suited to HTML. The role attribute defines what the general type of object is (such as an article, alert, or slider).
+
+The aria-label attribute is used to define a string that labels the current element. Use it in cases where a text label is not visible on the screen.
+
+The aria-hidden attribute is used to hide elements, such as icon names; that would otherwise make following a web page difficult for screen readers.
+
+We have included a Language Tag, this tag is designed to signal screen readers pronunciation engines which language to use.
+
+### Cookie Policy
+When you view this website, we may store some information on your computer in the form of a cookie file (referred to here as “Cookies”), which will enable us to tailor the site to improve your browsing experience. Cookies are small text files that are placed on your computer by websites that you visit.
+
+The Cookies we use on the Site can be described as follows:
+
+CMSSESSID[unique id] - used to maintain continuity as you move between pages in the Site and expire when you close your web browser.
+
+Cookies used by Google Analytics
+
+__utma - this cookie keeps track of the number of times a visitor has been to the Site, as well as information about when their first visit was, and when their last visit occurred. All data is anonymous and expires 2 years from set up.
+
+__utmb and __utmc - these cookies work together to calculate how long a visit takes. __utmb takes a timestamp of the exact moment in time when a visitor enters the Site, while __utmc takes a timestamp of the exact moment in time when a visitor leaves. The cookies effect can be said to wait 30 minutes for another pageview to happen, and if it does not, they expire.
+
+__utmz - this cookie allows analytics to ascertain where the visitor came from, what search engine was used, what link the user clicked on, what keyword was used, and from where in the world the site was accessed. It is used to calculate search engine traffic, advertising campaigns and page navigation within the Site and expires 6 months after set up.
+
+### Privacy Policy
+This privacy policy forms part of the terms of use that govern your use of the Fat Buddha Designs website.
+
+We are committed to protecting the privacy of the visitors to our website. This policy explains how we use any personal information we collect from you through our website.
+
+Collecting your information
+
+You can access most of the pages on our website without giving us your personal information. However, you may choose to provide us with your personal information on the contact page of our website. By submitting your personal information, you consent to our use of the information as set out in this privacy policy.
+
+Using your information
+
+We shall use any personal information you give us in accordance with this policy and in the privacy statements that appear on the forms through which you submit your personal information.
+
+If you give us your personal information, we may from time to time contact you by telephone, or email to provide information that may be of interest to you, including details about the services we offer. We shall give you an opportunity to choose not to receive marketing information before you submit your personal information.
+
+We will never pass your information to Third Parties.
+
+We will keep any data collected from you for two years after the last contact, your data will be stored on password-protected or PIN locked devices, it will not be stored on paper.
+
+Cookies
+
+Please see our cookies policy for more information on how we use cookies on our website.
+
+Accessing your personal information
+
+You have a right to ask us to provide you with the information we hold about you and to have any inaccuracies corrected. Please note that we charge a £10 fee for this to cover our costs and time.
+
+Contact
+
+If you have any queries or requests in respect of this policy, e.g., a request to stop sending you marketing information or to cease all contact with you, you should contact us by post at:-
+
+Fat Buddha Designs
+11 Blofield Corner Road
+Blofield Heath
+Norwich
+Norfolk
+NR13 4SA
+Please mark your correspondence for the attention of Will Moody (Data Protection Officer).
+
+----
+
+Header: hexagons

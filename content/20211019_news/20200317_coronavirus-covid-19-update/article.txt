@@ -1,0 +1,73 @@
+Title: Coronavirus (Covid-19) Update
+
+----
+
+Coverimage:
+
+- corona-virus.jpg
+
+----
+
+Coverimagealt: Covid 19 Update
+
+----
+
+Text:
+
+As a result of the worldwide pandemic of coronavirus / Covid-19, as a practice, KJL Solicitors are taking steps to ensure the wellbeing and safety of their staff and clients, whilst ensuring we can still provide advice and assistance. 
+
+Given the guidance coming out from the Government and their advisors, we have changed our normal procedures for client interviews. 
+
+Notwithstanding this, our aim is to remain accessible and available to our clients at a time when we appreciate expert legal advice may be needed.
+
+Our clients’ and staff’s mutual safety and wellbeing are paramount and in line with best practice, we would look to offer telephone, email, or video conferencing in the first instance.
+
+If you need to see us, we will risk assess each visit on a case by case basis having regard to all relevant information.
+
+KJL Solicitors has a policy in place and all staff have been briefed on the government’s guidance. 
+
+However, we would ask that if you are exhibiting the symptoms of a new persistent cough or a fever that you do not attend the office, rearrange your appointment or arrange this appointment by an alternative method. 
+
+Likewise, if you have visited a high-risk area, we ask you to notify us prior to any arranged meeting.
+
+In this current period, we are aiming to operate as normal as possible and continue to provide the services required by our clients with as little disruption and inconvenience as possible. 
+
+We will continue to monitor carefully the rapidly changing situation and follow the latest Government and Public Health England guidance.
+
+----
+
+Pagetitle: Coronavirus (Covid-19) Update
+
+----
+
+Keywords: Covid, Coronavirus, Update
+
+----
+
+Description: As a result of the worldwide pandemic of coronavirus, KJL Solicitors are taking steps to ensure the wellbeing and safety of their staff and clients.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow
+
+----
+
+Date: 2020-03-17 00:00:00
+
+----
+
+Author: - 9u9IIxIn
+
+----
+
+Tags: Covid, Coronavirus, Update

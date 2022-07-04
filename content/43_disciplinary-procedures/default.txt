@@ -1,0 +1,61 @@
+Title: Disciplinary Procedures
+
+----
+
+Pageheadline: Disciplinary Procedures
+
+----
+
+Pagecontent:
+
+(link: /contracts-of-employment arialabel: Contracts of Employment text: Contracts of Employment)
+(link: /construction-industry arialabel: Construction Industry text: Construction Industry)
+(link: /disciplinary-procedures arialabel: Disciplinary Procedures text: Disciplinary Procedures)
+(link: /managing-redundancy arialabel: Managing Redundancy text: Managing Redundancy)
+(link: /restrictive-covenants arialabel: Restrictive Covenants text: Restrictive Covenants)
+(link: /settlement-agreements arialabel: Settlement Agreements text: Settlement Agreements)
+(link: /transfer-of-undertakings arialabel: Transfer of Undertakings text: Transfer of Undertakings)
+
+The Employment Act 2002 (Dispute Resolutions) Regulations SI 2004/752 were brought into force in the hope that disciplinary and grievance procedures would be more transparent to the worker and in that regard the Regulations would assist with formal discussions and resolutions to problems between the workforce and their employers early on. 
+
+It was hoped that these procedures would prevent the onslaught of Tribunal claims. The procedures only made claims more viable for the employee and Tribunal claims increased significantly.
+
+The revised ACAS code of practice on Disciplinary and Grievance Procedures have now been published and pursuant to The Employment Code of Practice (Disciplinary and Grievance Procedures) Order 2009, the new code became effective as at the 6thApril 2009.
+
+Unlike the former statutory procedures, employees will no longer be barred from lodging a claim without first raising a grievance. 
+
+An unreasonable failure by an employer to follow the Code will result in a tribunal having the power to increase any award by up to 25% however an employer's failure to follow the code will not result in a finding of automatic unfair dismissal.
+
+Both employees and employers will have to act consistently and deal with the issues promptly and without unreasonable delay. 
+
+In most respects the procedure envisaged by the code remains similar to those operated under the statutory procedures with a written stage, followed by a meeting and a chance to appeal.
+
+You can view the ACAS code of practice with the following link
+
+ (link: http://www.acas.org.uk/media/pdf/9/5/CP01_1.pdf text: http://www.acas.org.uk/media/pdf/9/5/CP01_1.pdf)
+
+----
+
+Pagetitle: Disciplinary Procedures
+
+----
+
+Keywords: Disciplinary and Grievance Procedures, Grievance, Employment, Employees, Employers, Solicitors, Norwich, Norfolk
+
+----
+
+Description: The Employment Act 2002 Regulations were brought into force so that disciplinary &amp; grievance procedures would be more transparent to workers.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow

@@ -1,0 +1,88 @@
+label: site details
+icon: text
+
+  fields:
+    companyname:
+      label: Company Name
+      type: text
+    author:
+      label: Authors or Owners Name
+      type: text
+    address:
+      label: Address
+      type: text
+    street:
+      label: Street
+      type: text
+    village:
+      label: Village
+      type: text
+    city:
+      label: City
+      type: text
+    county:
+      label: County
+      type: text
+    postcode:
+      label: Postcode
+      type: text
+    email:
+      label: Email
+      type: email
+    phone:
+      label: Phone
+      type: tel
+    mobile:
+      label: Mobile
+      type: tel
+    inter:
+      label: International Format Phone Number
+      type: tel
+
+- width: 1/3
+  fields:
+    long:
+      label: Longditude
+      type: text
+    lat:
+      label: Latitude
+      type: text
+    hasmap:
+      label: Google Map URL
+      type: text
+    open:
+      label: Opening Hours
+      type: text
+    sameas:
+      label: Social Media Links (with comma between each)
+      type: text
+    pricerange:
+      label: Price Range of Services or Products (without £ symbol to start)
+      type: text
+    companylogo:
+      label: Company Logo
+      type: files
+      layout: cards
+      info: "{{ file.dimensions }}"
+      max: 1
+    companyimage:
+      label: Company Image
+      type: files
+      layout: cards
+      info: "{{ file.dimensions }}"
+      max: 1
+
+- width: 1/3
+  fields:
+    facebookurl:
+      label: Facebook URL (ie. https://facebook.com)
+      type: text
+    linkedinurl:
+      label: LinkedIn URL (ie. https://linkedin.com)
+      type: text
+    twitterurl:
+      label: Twitter URL (ie. https://twitter.com#me)
+      type: text
+    twittercreator:
+      label: Twitter Creator (ie. @me)
+      type: text

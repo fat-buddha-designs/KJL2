@@ -1,0 +1,171 @@
+Title: Home
+
+----
+
+Pageheadline: Specialists in Employment, Commercial and Company Law and Litigation
+
+----
+
+Firstpagecontent:
+
+KJL Solicitors offer advice in the complex and fast-changing fields of Employment Law, Commercial and Company Law and legal representation in Civil and Commercial Litigation.
+
+We regularly provide advice and litigate in the fields of intellectual property and shipping.
+
+We have welcomed licensing, contract and construction experts to our team and as a high street practise we also deal comprehensively with residential property, wills, probate, lasting powers of attorney, divorce and all forms of alternative dispute resolution processes, (ADR).
+
+Based just off the A47 to the east of Norwich, with a wealth of knowledge, clients needs are dealt with by our solicitors using sound and strategic commercial considerations.
+
+Resolutions are reached quickly, pragmatically and at the lowest possible cost to you. Our solicitors with their London based experience are practical and tactical whilst remaining commercially realistic.
+
+----
+
+Frontpageblockone:
+
+- 
+  headline: Divorce
+  blocktext: >
+    Our divorce solicitors are accredited by
+    the Solicitors Regulation Authority and
+    Resolution as specialising in providing
+    advice and representation in divorce
+    proceedings as well as having many years
+    of experience in this area of work.
+  url:
+    type: page
+    value: divorce
+    text: Divorce
+
+----
+
+Frontpageblocktwo:
+
+- 
+  headline: Litigation
+  blocktext: >
+    We offer guidance in all commercial
+    areas such as general business disputes,
+    intellectual property, shipping,
+    building and construction disputes,
+    through to consumer and contract
+    problems.
+  url:
+    type: page
+    value: litigation
+    text: Litigation
+
+----
+
+Frontpageblockthree:
+
+- 
+  headline: 'Wills & Probate'
+  blocktext: >
+    Making a will, ensures that specific
+    intentions you have for the disposal of
+    your assets after your death can be
+    carried out. Many people wrongly assume
+    that when they die their next-of-kin
+    will automatically receive the whole of
+    their estate. If you die without making
+    a valid will you die "intestate".
+  url:
+    type: page
+    value: wills
+    text: Wills
+
+----
+
+Secondpagecontent:
+
+Come and visit us at our offices just outside of Norwich in Blofield.
+
+Relax and discover how KJL Solicitors can meet the needs of you, your family, your business and all your future planning.
+
+ We are specialist Solicitors in:-
+
+- Employment Law
+- Commercial and Company Law
+- Civil and Commercial Litigation
+- Dispute Resolution
+- Property
+- Divorce
+- Intellectual Property
+- Shipping Law
+- Contract Law
+- Consumer Law
+- Wills and Probate
+
+We hold an excellent quality mark with the Law Society for Conveyancing and Civil and Commercial Mediation.
+
+If you would like to discuss any related matter please give us a call on (tel: 01603717520  arialabel: call KJL Solicitors  text: 01603 717520) or email us at (email: kjl@kjl-solicitors.co.uk  arialabel: email KJL Solicitors  text: kjl@kjl-solicitors.co.uk)
+
+----
+
+Keytestimonials:
+
+- 
+  text: >
+    “I want to thank you for the time and
+    support you have given me concerning
+    this matter. The way you offered to help
+    complete strangers meant a lot to me and
+    money can’t buy kindness, enclosed
+    find vouchers, a small token of my
+    appreciation. Once again my sincerest
+    thanks.”
+- 
+  text: >
+    “Taking our calls out of hours and
+    particularly at weekends to hold our
+    hands and eradicate our fears through
+    moments of extreme worry. You shone like
+    a star and delivered as promised the
+    result which we never thought possible.
+    We have never known a lawyer who has
+    delivered to such a high standard with
+    such a likeable persona. We will
+    definitely be using you again in the
+    future and will recommend you to all we
+    know.”
+- 
+  text: >
+    “Every inch the London Lawyer you
+    promised you were and what a result
+    against opposition equally matched. How
+    can we ever thank you and find suitable
+    praise for your genius.”
+- 
+  text: >
+    “I was given options that gave me
+    confidence to know there was a way
+    forward. To empower and encourage people
+    to make the move forward is enlightening
+    as it can be frightening when facing a
+    large company”.
+
+----
+
+Pagetitle: We are Friendly, Local and Independent
+
+----
+
+Keywords: Employment, Law, Commercial, Company, legal ,representation, Civil , Commercial, Litigation, Solicitors
+
+----
+
+Description: KJL Solicitors of Blofield, are specialists in Employment Law, Commercial and Company Law and legal representation in Civil and Commercial Litigation.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow

@@ -1,0 +1,51 @@
+Title: Search
+
+----
+
+Pageheadline: Search KJL Solicitors
+
+----
+
+Pagecontent: 
+
+----
+
+Pagetitle: Search KJL Solicitors
+
+----
+
+Keywords: Search, Search Results, Find Topics and Answers, Solicitors, Norwich, Norfolk
+
+----
+
+Description: Please use this search page to find answers to any questions you may have about the services KJl Solicitors can provide.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: noindex
+
+----
+
+Robotsfollow: nofollow
+
+----
+
+Seo-description: Search for stuff on our websites, simply fill in the form and hit enter
+
+----
+
+Seo-keywords: Search, Website, Words,
+
+----
+
+Text: 
+
+----
+
+Header: topography

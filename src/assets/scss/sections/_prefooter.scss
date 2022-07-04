@@ -1,0 +1,113 @@
+.prefooter {
+  background-color: var(--g-color-3);
+  color: var(--f-color);
+  margin: 0;
+  padding: 1rem;
+  text-align: center;
+
+  div {
+    padding: 0;
+  }
+
+  a {
+    color: inherit;
+  }
+
+  img.lazy,
+  source.lazy {
+    border-radius: var(--bor-rad);
+    height: 110px;
+    padding: .4rem;
+    width: auto;
+  }
+
+  .yoski img {
+    height: 100%;
+    padding: .6rem;
+    width: auto;
+  }
+
+  a:focus,
+  a:hover {
+    color: var(--color-g-4);
+  }
+}
+
+.social {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+  .social--links {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 250px;
+
+    a {
+      border: 1px solid var(--wh-color);
+      border-radius: var(--bor-rad);
+      color: var(--pri-color);
+      margin: 1rem;
+      padding: 0;
+    }
+
+    .icon {
+      fill: var(--wh-color);
+      height: 1.5rem;
+      margin: 1rem 1rem .6rem;
+      position: relative;
+      top: 0;
+      transform: scale(1);
+      transition: all var(--dur) var(--trans);
+      width: 1.5rem;
+
+      &:focus,
+      &:hover {
+        transform: scale(1.4);
+      }
+    }
+  }
+}
+
+.accreditation-images {
+  align-items: center;
+  border-radius: var(--bor-rad);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  max-width: 180px;
+}
+
+
+@include respond-to(sm) {
+  .prefooter {
+    padding: 1rem;
+  }
+
+  .social {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    .social-links {
+      margin-right: 1rem;
+
+      a {
+        padding: 0 1rem;
+      }
+
+      .icon {
+        height: 1.8rem;
+        left: 2px;
+        position: relative;
+        top: 2px;
+        width: 1.8rem;
+      }
+    }
+  }
+}

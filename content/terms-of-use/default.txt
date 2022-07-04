@@ -1,0 +1,103 @@
+Title: Terms Of Use
+
+----
+
+Pageheadline: Terms Of Use
+
+----
+
+Pagecontent:
+
+## Disclaimer & Copyright Notice
+
+These terms of use govern your use of KJL Solicitors web site ("our Website"). We may amend these terms of use from time to time, and the revised version will be effective when displayed here.
+
+Our website and all of the material within it has been prepared with the aim of providing key information and general guidance only. You must not rely upon the information without detailed legal advice any information within our website does not constitute legal advice in relation to any particular situation. KJL Solicitors will be happy to advise on any specific legal matter or problem personal to you or your business. We only provide this service to you within England and Wales and reserve the right to restrict or prohibit access to any person not based within the jurisdiction of England and Wales and accept no liability if you access the site from outside this jurisdiction.
+
+We will use our reasonable endeavours to ensure that the information on our Website is accurate. However, you acknowledge and agree that KJL Solicitors hereby excludes to the fullest extent permitted by law any liability of whatsoever nature arising directly or indirectly as a result of your use of the Site. By was of example and by no means exhaustively we therefore accept no liability whatsoever in contract, tort or otherwise for any loss or damage caused by or arising directly or indirectly in connection with any use or reliance on the contents of our Website except to the extent that such liability cannot be excluded by law. KJL Solicitors have no control over and therefore accepts no responsibility for the content of any third party website. Nothing in these terms of use shall exclude our liability to you for fraudulent misrepresentation by us or our employees or for death or personal injury resulting from our negligence or that of our employees.
+
+You may create a hypertext link to our Website, but we would ask that the link is directed to our homepage at https://www.kjl-solicitors.co.uk.
+
+We are happy to accept requests for brochures, seminar bookings, requests for further information and instructions by email, but you should note that the Internet is not a secure medium, and any information sent through our Website or via email may be intercepted and may not arrive safely at its ultimate destination.
+
+We cannot guarantee any links to third party sites nor can we provide any guarantees or accept any liability in respect of the content on such third party sites.
+
+You agree not to reverse engineer, decompile, copy or adapt any software or other code or scripts forming part of our Website nor attempt to transmit to or via our Website any information that contains a virus, worm, or other harmful or disruptive component.
+
+Material contained in our Website is © KJL Solicitors 2008 except where otherwise stated. You may download, view and print extracts from our Website for internal use within your organisation, but must not otherwise copy, reproduce or re-distribute the contents of these pages in whole or in part without our prior written consent. All other rights are reserved.
+
+KJL Solicitors trade as a limited company based in England whose address is Blofield Chamber The Street Blofield NR13 4AA. A list of employees of the practice may be inspected at this address. If you have any queries about these terms of use you should contact us by emailing (email: kjl@kjl-solicitors.co.uk  class: link--underline  arialabel: email KJL Solicitors  text: kjl@kjl-solicitors.co.uk). 
+
+Our Website relates only to the laws of England and Wales except where expressly otherwise provided, and these terms of use shall be governed by and construed and interpreted in accordance with the laws of England and Wales and the parties submit to the non-exclusive jurisdiction of the courts of England and Wales in respect of any disputes which may arising in relation to our Website.
+
+Service is provided by solicitors of England and Wales, regulated by the Law Society. Rules of the Law Society can be obtained from their website via the following link Law Society KJL Solicitors are authorised and regulated by the Solicitors Regulation Authority of England and Wales Regulation Authority Number is 565844 in the conduct of our business. You can access the professional rules of the Solicitors Regulation Authority through their website at (link: https://www.sra.org.uk/ arialabel: Solicitors Regulation Authority   text: Solicitors Regulation Authority) 
+
+If you are a client and we have made a contract with you by electronic means you may be entitled to use an EU online dispute resolution service to assist with any contractual dispute you may have with us. This service can be found at http://ec.europa.eu/odr. Our email address is (email: kjl@kjl-solicitors.co.uk  class: link--underline  arialabel: email KJL Solicitors  text: kjl@kjl-solicitors.co.uk)
+
+----
+
+Pagetitle: Terms Of Use Statement
+
+----
+
+Keywords: terms,of,use,conditions,statement,use,usage,website,kjl,solicitors
+
+----
+
+Description: The terms of use statement relating to and dictating the use of the KJL Solicitors website by potential clients and interested parties.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow
+
+----
+
+Seo-description: This page clarifies how we expect browsers using this website to use the content and images contained here.
+
+----
+
+Seo-keywords: Content, Images, Use
+
+----
+
+Text:
+
+Disclaimer & Copyright Notice
+
+These terms of use govern your use of the KJL Solicitors website ("our Website"). We may amend these terms of use from time to time, and the revised version will be effective when displayed here.
+
+1. Our website and all of the material within it has been prepared with the aim of providing key information and general guidance only. You must not rely upon the information without detailed legal advice any information within our website does not constitute legal advice in relation to any particular situation. KJL Solicitors will be happy to advise on any specific legal matter or problem personal to you or your business. We only provide this service to you within England and Wales and reserve the right to restrict or prohibit access to any person not based within the jurisdiction of England and Wales and accept no liability if you access the site from outside this jurisdiction.
+
+2. We will use our reasonable endeavours to ensure that the information on our Website is accurate. However, you acknowledge and agree that KJL Solicitors hereby excludes to the fullest extent permitted by law any liability of whatsoever nature arising directly or indirectly as a result of your use of the Site. By way of example and by no means exhaustively we, therefore, accept no liability whatsoever in contract, tort or otherwise for any loss or damage caused by or arising directly or indirectly in connection with any use or reliance on the contents of our Website except to the extent that such liability cannot be excluded by law. KJL Solicitors have no control over and therefore accepts no responsibility for the content of any third party website. Nothing in these terms of use shall exclude our liability to you for fraudulent misrepresentation by us or our employees or for death or personal injury resulting from our negligence or that of our employees.
+
+3. You may create a hypertext link to our Website, but we would ask that the link is directed to our homepage at https://www.kjl-solicitors.co.uk.
+
+4. We are happy to accept requests for brochures, seminar bookings, requests for further information and instructions by email, but you should note that the Internet is not a secure medium, and any information sent through our Website or via email may be intercepted and may not arrive safely at its ultimate destination.
+
+5. We cannot guarantee any links to third party sites nor can we provide any guarantees or accept any liability in respect of the content on such third party sites.
+
+6. You agree not to reverse engineer, decompile, copy or adapt any software or other code or scripts forming part of our Website nor attempt to transmit to or via our Website any information that contains a virus, worm, or other harmful or disruptive components.
+
+7. Material contained in our Website is © KJL Solicitors 2008 except where otherwise stated. You may download, view and print extracts from our Website for internal use within your organisation, but must not otherwise copy, reproduce or re-distribute the contents of these pages in whole or in part without our prior written consent. All other rights are reserved.
+
+8. KJL Solicitors trade as a limited company based in England whose address is Blofield Chamber The Street Blofield NR13 4AA. A list of employees of the practice may be inspected at this address. If you have any queries about these terms of use you should contact us by emailing kjl@kjl-solicitors.co.uk. 
+
+9. Our Website relates only to the laws of England and Wales except where expressly otherwise provided, and these terms of use shall be governed by and construed and interpreted in accordance with the laws of England and Wales and the parties submit to the non-exclusive jurisdiction of the courts of England and Wales in respect of any disputes which may arise in relation to our Website.
+
+10. Service is provided by solicitors of England and Wales, regulated by the Law Society. Rules of the Law Society can be obtained from their website via the following link Law Society KJL Solicitors are authorised and regulated by the Solicitors Regulation Authority of England and Wales Regulation Authority Number is 565844 in the conduct of our business. You can access the professional rules of the Solicitors Regulation Authority through their website at Solicitors Regulation Authority 
+
+11. If you are a client and we have made a contract with you by electronic means you may be entitled to use an EU online dispute resolution service to assist with any contractual dispute you may have with us. This service can be found at http://ec.europa.eu/odr. Our email address is (link: kjl@kjl-solicitors.co.uk text: kjl@kjl-solicitors.co.uk)
+
+----
+
+Header: feather

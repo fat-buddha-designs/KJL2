@@ -1,0 +1,37 @@
+img {
+  background-color: var(--color-g-1);
+  border-radius: var(--bor-rad);
+  font-family: var(--b-font);
+  font-size: inherit;
+  height: auto;
+  line-height: inherit;
+  position: relative;
+  text-align: center;
+
+  &.img--left {
+    float: left;
+    margin-bottom: .5em;
+    margin-right: 1em;
+    width: 250px;
+  }
+
+  &.img--right {
+    float: right;
+    margin-bottom: .5em;
+    margin-left: 1em;
+    width: 250px;
+  }
+}
+
+img::before {
+  content: "We're sorry, the image below is broken";
+  display: block;
+  margin-bottom: 10px;
+}
+
+img::after {
+  content: '(url: "attr(src) ")';
+  display: block;
+  font-size: .75em;
+  margin-top: 6px;
+}

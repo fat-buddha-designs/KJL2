@@ -1,0 +1,86 @@
+header {
+  background: var(--g-color-1);
+  color: var(--f-color);
+  display: grid;
+  grid-template-columns: 1fr;
+  margin-bottom: 0;
+  max-width: 100%;
+  padding: 0 1rem 3rem;
+
+  a {
+    color: var(--f-color);
+
+    &:focus,
+    &:hover {
+      color: var(--g-color-3);
+    }
+  }
+
+  ul {
+    list-style: none;
+  }
+
+  .icon {
+    fill: var(--f-color);
+  }
+
+  .header--logo {
+    display: grid;
+    place-content: center;
+
+    img {
+      height: auto;
+      margin-bottom: 0;
+      width: 100%;
+    }
+  }
+
+  .header--links {
+    display: grid;
+    font-size: 1.4em;
+    font-weight: 400;
+    padding: 0 1rem;
+    place-content: center;
+
+    ul {
+      margin-bottom: 0;
+    }
+
+    li {
+      padding: .4rem 0;
+    }
+
+    a {
+      text-align: center;
+    }
+  }
+}
+
+.header--slogan {
+  display: grid;
+  padding: 1.5rem 1rem;
+  place-content: center;
+
+  p {
+    font-family: var(--h-font);
+    font-size: 1.1em;
+    font-weight: 400;
+    line-height: 1;
+    margin-bottom: .3em;
+    text-align: center;
+  }
+}
+
+@include respond-to(sm) {
+  header {
+    display: grid;
+    grid-template-columns: 35% 35% 30%;
+
+  }
+}
+
+@include respond-to(md) {
+  header {
+    grid-template-columns: 35% 30% 35%;
+  }
+}

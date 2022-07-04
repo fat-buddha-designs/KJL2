@@ -1,0 +1,12 @@
+type: group
+
+fields:
+  headline:
+    label: Block Headline
+    type: text
+  text:
+    label: Block Text
+    type: textarea
+  url:
+    label: Block Link
+    type: link

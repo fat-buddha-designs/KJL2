@@ -1,0 +1,111 @@
+.top-bar-container {
+  background: var(--g-color-1);
+  color: var(--f-color);
+  padding: .2rem .6rem;
+
+  .menu-icon {
+    margin-left: .6rem;
+
+    &:hover,
+    &:focus {
+      background-color: transparent;
+      opacity: .6;
+    }
+  }
+
+  .menu-icon:hover::after {
+    box-shadow: none;
+  }
+
+  .menu-icon::after {
+    width: 18px;
+  }
+
+  .top-bar {
+    background: transparent;
+    color: var(--f-color);
+    padding: .3rem .5rem .1rem;
+  }
+
+  .menu {
+    background: transparent;
+
+    a {
+      color: var(--f-color);
+
+      &:hover,
+      &:focus {
+        background: var(--g-color-2);
+        color: var(--pri-color);
+        font-style: italic;
+      }
+    }
+  }
+
+  .dropdown.menu>li.is-active a {
+    background: var(--g-color-2) !important;
+    color: var(--pri-color) !important;
+
+    &:hover,
+    &:focus {
+      background: var(--g-color-3) !important;
+      color: var(--pri-color) !important;
+      font-style: italic;
+    }
+  }
+
+  .is-dropdown-submenu {
+    border: 0;
+    width: 280px;
+  }
+
+  .dropdown .is-dropdown-submenu a {
+
+    &:hover,
+    &:focus {
+      color: var(--pri-color) !important;
+      font-style: italic;
+    }
+  }
+
+  .is-drilldown {
+    width: 100vw;
+  }
+
+  .drilldown a {
+    background: var(--g-color-1);
+    color: var(--f-color);
+  }
+
+  .is-dropdown-submenu-item.opens-right a::after {
+    border-color: transparent transparent transparent var(--pri-color);
+  }
+
+  .js-drilldown-back>a::before {
+    border-color: transparent var(--pri-color) transparent transparent;
+  }
+
+  .is-drilldown-submenu-parent>a::after {
+    border-color: transparent transparent transparent var(--pri-color);
+  }
+
+  .dropdown.menu.medium-horizontal>li.is-dropdown-submenu-parent>a::after {
+    border-color: var(--pri-color) transparent transparent;
+  }
+
+  .search {
+    a {
+      position: relative;
+      top: -.25rem;
+    }
+  }
+}
+
+@include respond-to(sm) {
+  .top-bar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0;
+  }
+}

@@ -1,0 +1,134 @@
+Title: Seven Steps To A Divorce
+
+----
+
+Pageheadline: Seven Steps To A Divorce
+
+----
+
+Pagecontent:
+
+(link: /financial-consent-order arialabel: Financial Consent Order text: Financial Consent Order)
+(link: /fixed-fee-divorce arialabel: Fixed Fee Divorce text: Fixed Fee Divorce)
+(link: /grounds-for-a-divorce arialabel: Grounds For A Divorce text: Grounds For A Divorce)
+(link: /high-net-worth-divorce arialabel: High Net Worth Divorce text: High Net Worth Divorce)
+(link: /seven-steps-to-a-divorce arialabel: Seven Steps to a Divorce text: Seven Steps to a Divorce)
+
+Seven steps to applying for a divorce in England and Wales through the courts.
+
+### 1. First find your marriage certificate
+
+ You need your marriage certificate because you have to file it at court when you start a divorce petition. If you've lost your marriage certificate you can easily obtain a certified copy from the General Register Office.
+
+### 2. Start your divorce petition in court
+
+You can issue your divorce Petition either in the Principal Registry or any divorce County Court.
+
+While you can file your divorce petition in any divorce County Court, it's best to choose a court most convenient to where you live because you may need to make several visits to court before your divorce is completed.
+
+To file your petition at court you will need the following divorce forms:
+
+Form D8: the Divorce Petition
+Form D8A: Statement of Arrangements for Children, if you have children
+If you need assistance in completing the forms, then you can seek assistance with a qualified solicitor using our low cost  fixed fee divorce service.
+
+### 3. Give notice of the divorce petition to your spouse
+
+ Once your divorce forms are completed your next step is to serve the divorce petition on your spouse.
+
+Sending the divorce petition (and any accompanying Statement of Arrangements for Children) to your spouse is the responsibility of the court, but it's your responsibility to provide the court with the correct address.
+
+You should think about sending a draft petition to your spouse and discussing the contents of the draft petition with them before issuing the petition in an attempt to prevent any unnecessary unpleasantness.
+
+The court will send you a Notice of Issue of Petition (which will include notice of issue of any Statement of Arrangements for Children) once the divorce petition has been sent to your spouse.
+
+The court will post a copy of your divorce petition to your spouse (and any named co-respondent) with an Acknowledgement of Service Form for your spouse to complete.
+
+Your spouse, as Respondent, has seven days from the day the petition was received to return the Acknowledgement of Service.
+
+### 4. Handling your spouse's response to the divorce petition
+
+ Once your petition is posted to your spouse, one of the following events may occur:
+
+The petition may not be responded to because it wasn't delivered or because it was ignored
+
+Assuming the petition hasn't been returned to the court by the Post Office as undeliverable, you must wait eight days for your spouse to acknowledge receipt.
+
+If the petition apparently has been received but your spouse doesn't acknowledge receipt, then you must arrange for your spouse to be served in such a way that you can prove service.
+
+Your spouse acknowledges service and intends to defend against divorce
+
+If your spouse outlines on the Acknowledgement of Service that they intend to contest the divorce, then you must wait 29 days from the day your spouse received the divorce petition and if you don't receive an answer (or ‘defence to the divorce’) after 29 days, you can ask the court for directions for trial.
+
+If you do receive an answer or defence, then you should consult a solicitor to represent you as proceedings from this point onward can be quite technical. You may seek an order for cost if the proceedings are defended, to encourage the other side to agree to divorce.
+
+Your spouse acknowledges service and doesn't intend to contest the divorce
+
+If your spouse doesn't intend to contest the divorce, you can then immediately ask the court to rule whether the reasons stated in your petition are sufficient for the divorce to be granted, and your proposed arrangements for the financial and custodial care of your children are satisfactory.
+
+This process is referred to as ‘applying for directions for Decree Nisi.
+
+If your spouse has any comments on your Statement of Arrangements for Children, then they may either amend your statement clearly for the court to see their comments or they may file their own new version. In either of these circumstances you don't need to do anything. If the court has any queries then the Judge will invite your comments when they are asked to consider your petition.
+
+### 5. Applying for Decree Nisi
+
+ To apply for Decree Nisi you need to complete the following divorce forms:
+
+Form D84: an Application for a Decree Nisi
+
+ Form D80A through to D80E: a Statement in Support of Divorce/Dissolution/Judicial Separation 
+
+ The Forms D80A through D80E coincide with the five facts for divorce. Be sure to use the Form D80 that correlates to the facts used to support the ground for your divorce petition.
+
+### 6. Getting your Decree Nisi granted
+
+ Once your Forms D84 and D80 (and supporting documents) are completed, send them to the court stating that your divorce is undefended.
+
+Your complete file will then be examined by the judge, who will consider whether your documents are satisfactorily completed, you have proper grounds for divorce and the proposed arrangements for your children are in their best interests. 
+
+Remember to file the Statement of Arrangements for Children, if applicable, and Acknowledgement of Service showing your spouse’s consent to the proposed arrangement.
+
+Your Decree Nisi will be sent by the court to you, your spouse (and any co-respondent) shortly after the judge decides that you have satisfied the requirements for divorce. Pronouncement of your Decree Nisi usually takes about two months from the date you first file your Application for a Decree Nisi.
+
+### 7. Obtaining your Decree Absolute
+
+You're not divorced until your Decree Absolute is issued.
+
+If you are the petitioner, you can apply for your Decree Absolute six weeks and one day after your Decree Nisi is granted. You cannot apply earlier. 
+
+If you have children you must also receive from the court a Notice of Satisfaction with Arrangements for the Children acknowledging that the judge is satisfied with the arrangements.
+
+If you are the Respondent, you cannot apply for the Decree Absolute until four-and-a-half months have passed after the pronouncement of the Decree Nisi. 
+
+It's easy to apply for your Decree Absolute, if you are the Petitioner. You simply need to file Form D36: a Notice of Application for Decree Nisi to be made Absolute with the court.
+
+Finally, you will be sent by the court a Decree Absolute which officially ends your marriage.
+
+Please note a dissolution of marriage does not deal with the financial affairs of the marriage and it is only through a court order that your financial claims against each other can be dismissed, making it impossible for either of you to make financial claims against each other in the future. 
+It's important that you obtain a formal court order if you want to achieve absolute finality between you in relation to your financial settlement.
+
+----
+
+Pagetitle: Seven Steps To A Divorce
+
+----
+
+Keywords: Seven steps to a divorce, Applying for a divorce, Divorce, England, Wales, Solicitors, Norwich, Norfolk
+
+----
+
+Description: KJL Solicitors have detailed the Seven steps to apply for a divorce in England and Wales through the courts. If you need further help contact us today
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow

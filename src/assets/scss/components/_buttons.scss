@@ -1,0 +1,125 @@
+button {
+  background: transparent;
+  border: var(--bor);
+  border-radius: var(--bor-rad);
+  color: var(--pri-color);
+  cursor: pointer;
+  display: inline-block;
+  margin: 0;
+  margin-right: .6rem;
+  min-width: 10ch;
+  outline: none;
+  padding: .6rem 1.2rem;
+  text-align: center;
+  text-decoration: none;
+  text-transform: capitalize;
+  transition: all var(--dur) var(--trans);
+
+  &:focus,
+  &:hover {
+    background: var(--pri-color);
+    border-color: var(--pri-color);
+    color: all var(--wh-color);
+    text-decoration: none;
+  }
+
+  &:active {
+    background: var(--pri-color-drk);
+    border-color: var(--pri-color-drk);
+  }
+
+  &.full-width {
+    min-width: 100%;
+  }
+}
+
+.button {
+  background: transparent;
+  border: var(--bor);
+  border-radius: var(--bor-rad);
+  color: var(--pri-color);
+  cursor: pointer;
+  display: inline-block;
+  margin: 0;
+  margin-right: .6rem;
+  min-width: 10ch;
+  outline: none;
+  padding: .6rem 1.2rem;
+  text-align: center;
+  text-decoration: none;
+  text-transform: capitalize;
+  transition: all var(--dur) var(--trans);
+
+  &:focus,
+  &:hover {
+    background: var(--pri-color);
+    border-color: var(--pri-color);
+    color: all var(--wh-color);
+    text-decoration: none;
+  }
+
+  &.active {
+    background: var(--pri-color);
+    border-color: var(--pri-color);
+
+    &:focus,
+    &:hover {
+      background: var(--pri-color);
+      border-color: var(--pri-color);
+    }
+  }
+
+  &.full-width {
+    min-width: 100%;
+  }
+
+  &.rounded {
+    border-radius: 2rem;
+  }
+}
+
+.button-primary {
+  background: var(--pri-color);
+  border-color: var(--pri-color);
+  color: all var(--wh-color);
+
+  &:focus,
+  &:hover {
+    background: var(--pri-color);
+    border-color: var(--pri-color);
+    color: all var(--wh-color);
+  }
+
+  &:active {
+    background: var(--pri-color);
+    border-color: var(--pri-color);
+    color: all var(--wh-color);
+  }
+}
+
+.button--submit {
+  background: var(--pri-color);
+  border: 1px solid var(--pri-color);
+  border-radius: var(--bor-rad);
+  color: all var(--wh-color);
+  cursor: pointer;
+  display: inline-block;
+  margin: 0 .6rem 0 0;
+  outline: none;
+  padding: .8rem 1.2rem;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all var(--dur) var(--trans);
+
+
+  &:focus,
+  &:hover {
+    background: var(--pri-color-drk);
+    color: all var(--wh-color);
+  }
+
+  &.full--width {
+    width: 100%;
+  }
+}

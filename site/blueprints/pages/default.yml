@@ -1,0 +1,61 @@
+title: Default Page
+icon: 📝
+present: page
+
+status:
+  draft: true
+  unlisted:
+    label: Hidden Page
+    text: The page is not listed in the main menu
+  listed:
+    label: Menu Page
+    text: The page is listed in the main menu
+
+pages:
+  create: default
+  template:
+    - default
+
+tabs:
+  content:
+    columns:
+    label: Page Content
+    fields:
+      pageHeadline:
+        label: Page Headline
+        type: text
+      pageContent:
+        label: Page Content
+        editor:
+        type: markdown
+        font:
+          family: sans-serif
+          scaling: false
+          size: regular
+        buttons:
+          - headlines
+              - h1
+              - h2
+              - h3
+              - h4
+              - h5
+              - h6
+          - bold
+          - italic
+          - ul
+          - ol
+          - link
+          - email
+          - blockquote
+          - horizontal-rule
+          - strikethrough
+          - pagelink
+          - file
+          - footnote
+        files: page.images
+
+  seo:
+    type: fields
+    label: Page SEO
+    fields:
+      meta: fields/pageseo 

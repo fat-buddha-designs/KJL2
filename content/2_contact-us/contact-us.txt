@@ -1,0 +1,51 @@
+Title: Contact Us
+
+----
+
+Pagetitle: Contact us by phone, email or form
+
+----
+
+Keywords: Contact, Details, Map, Directions, Form, Email, Phone
+
+----
+
+Description: Contact details including map and directions for KJL Solicitors, We are located just outside of Norwich and only a short distance off the A47.
+
+----
+
+Pageimage:
+
+- kjl_fb_image.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow
+
+----
+
+Pageheadline: 
+
+----
+
+Pagecontent: 
+
+----
+
+Text: 
+
+----
+
+Seo-description: Contact Us by email phone or our contact page form
+
+----
+
+Seo-keywords: Contact, Email, Phone, Mobile, Form
+
+----
+
+Header: hexagons

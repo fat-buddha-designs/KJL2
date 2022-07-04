@@ -1,0 +1,64 @@
+.tabs {
+  border-radius: var(--bor-rad);
+  box-shadow: 0 4px 4px -2px rgba(0, 0, 0, .5);
+  overflow: hidden;
+}
+
+.tab {
+  width: 100%;
+  color: var(--wh-color);
+  overflow: hidden;
+
+  --label {
+    background: var(--pri-color);
+    border-bottom: var(--bor-dot);
+    border-radius: var(--bor-rad);
+    cursor: pointer;
+    display: flex;
+    font-weight: bold;
+    justify-content: space-between;
+    margin-bottom: 0;
+    padding: 1em;
+
+    :hover {
+      background: var(--pri-color-drk);
+    }
+
+    ::after {
+      content: '\276F';
+      height: 1em;
+      text-align: center;
+      transition: all .35s;
+      width: 1em;
+    }
+  }
+
+  --content {
+    background: var(--wh-color);
+    color: var(--f-color);
+    max-height: 0;
+    padding: 0 1em;
+    transition: all .35s;
+  }
+
+  input {
+    opacity: 0;
+    position: absolute;
+    z-index: -1;
+  }
+}
+
+input:checked {
+  +.tab--label {
+    background: var(--pri-color);
+
+    ::after {
+      transform: rotate(90deg);
+    }
+  }
+
+  ~.tab--content {
+    max-height: 100vh;
+    padding: 1em;
+  }
+}

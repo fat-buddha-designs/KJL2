@@ -1,0 +1,36 @@
+.paging {
+  margin-top: 3rem;
+  padding: 0;
+
+  nav {
+    margin: 0;
+
+    .next,
+    .prev {
+      background-color: var(--pri-color);
+      border-radius: var(--bor-rad);
+      box-shadow: var(--shadow-sm);
+      color: var(--wh-color);
+      margin: 0;
+      padding: .7rem;
+      transition: all var(--dur) var(--trans);
+
+      &:hover,
+      &:focus {
+        background-color: var(--pri-color-drk);
+      }
+    }
+
+    .next {
+      padding-left: 0;
+    }
+
+    .prev {
+      padding-right: 0;
+    }
+
+    .icon {
+      margin-right: 0;
+    }
+  }
+}

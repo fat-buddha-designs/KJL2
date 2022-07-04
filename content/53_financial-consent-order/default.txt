@@ -1,0 +1,72 @@
+Title: Financial Consent Order
+
+----
+
+Pageheadline: Financial Consent Order
+
+----
+
+Pagecontent:
+
+(link: /financial-consent-order arialabel: Financial Consent Order text: Financial Consent Order)
+(link: /fixed-fee-divorce arialabel: Fixed Fee Divorce text: Fixed Fee Divorce)
+(link: /grounds-for-a-divorce arialabel: Grounds For A Divorce text: Grounds For A Divorce)
+(link: /high-net-worth-divorce arialabel: High Net Worth Divorce text: High Net Worth Divorce)
+(link: /seven-steps-to-a-divorce arialabel: Seven Steps to a Divorce text: Seven Steps to a Divorce)
+
+Divorcing couples can create a Consent Order (also known as a Clean Break Order) to ensure that any financial agreement reached by them is legally binding and that no party can make further claims against the other after the divorce has been made absolute. A Consent Order must be filed at a divorce court and approved by a Judge to be enforceable in law.
+
+## Why do I need a Financial Consent Order?
+
+The divorce process itself only arranges the dissolution of your marriage and doesn’t include your financial arrangements after divorce.
+
+To stop you or your ex coming back to the divorce court at a later date to sort out any financial problems, it’s best to put the terms of your financial agreement into a legally-binding court order which dismisses any future financial claims after your divorce.
+
+###  What is included in the Financial Consent Order?
+
+** The sale and transfer of property**
+
+Maintenance for spouse and children
+Pension sharing orders
+Transfer of shares and investments
+Personal property
+Lump sum payments
+
+### What are the requirements of the Financial Consent Order?
+
+** The Financial Consent Order/Clean Break Order must be agreed and signed by both parties**
+
+Both divorcing partners must be open and honest about their income and assets to each other
+The divorce disclosure document Form E will not have to be completed with a Financial Consent Order
+You only need to complete a basic assets, income and pension value form
+What happens when the Financial Consent Order is filed?
+
+The Financial Consent Order/Clean Break Order will be filed at a divorce court on your behalf and will be placed before a Judge
+Once the Financial Consent Order has been approved, both you and (your soon to be) ex will receive a copy of the financial order, dated and signed by the Judge
+A standard charge court filing fee of £50, which you will need to pay directly to the divorce court, unless you qualify for an exemption of court fees because you’re on a low income.
+
+----
+
+Pagetitle: Financial Consent Order
+
+----
+
+Keywords: Financial Consent Order, Divorce, Solicitors, Norwich, Great Yarmouth, Norfolk
+
+----
+
+Description: A Consent Order must be filed at a divorce court and approved by a Judge to be enforceable in law, KJL Solicitors can help with a Consent Order.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow

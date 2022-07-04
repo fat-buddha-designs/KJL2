@@ -1,0 +1,66 @@
+Title: Covid 19 Update
+
+----
+
+Coverimage:
+
+- corona-virus.jpg
+
+----
+
+Coverimagealt: Covid 19 Update
+
+----
+
+Text:
+
+As a result of the latest Government guidelines, whilst we continue to operate on all of your matters, we are not seeing clients in the office, and clients are respectfully asked to communicate over email, telephone, and any video calling method of your choice. 
+
+Our letterbox will continue to receive signed documents from you, but until the end of November we will not be receiving signed documents from you in person at the office. 
+We are sorry for the inconvenience but we wish to keep our staff and all of our clients safe during these unprecedented times.
+
+----
+
+Pagetitle: Covid 19 Update
+
+----
+
+Keywords: Covid19, Coronavirus, Update
+
+----
+
+Description: Whilst we continue to operate on all of your matters, we are not seeing clients in the office, and we ask you to communicate by email or telephone.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow
+
+----
+
+Date: 2021-10-19 19:25:00
+
+----
+
+Author: - 9u9IIxIn
+
+----
+
+Tags: Covid19, Coronavirus, Update
+
+----
+
+Pageheadline: 
+
+----
+
+Pagecontent: [{"content":{"level":"h2","text":"Covid 19 Update"},"id":"b3673c33-d1d4-4a63-85f7-edb9c04a4616","isHidden":false,"type":"heading"},{"content":{"text":"<p>As a result of the latest Government guidelines, whilst we continue to operate on&nbsp;all of your matters, we are not seeing clients in the office, and clients are respectfully asked to communicate over email, telephone, and any video calling method of your choice.<\/p><p>Our letterbox will continue to receive signed documents from you,&nbsp;but until the end of November, we will not be receiving signed documents&nbsp;from you in person at the office.&nbsp;<\/p><p>We are sorry for the inconvenience but we wish to keep our staff&nbsp;and all of our clients safe during these unprecedented&nbsp;times.<\/p><p><\/p>"},"id":"25d52d6a-3b35-42b3-a65a-d69668e21a00","isHidden":false,"type":"text"}]

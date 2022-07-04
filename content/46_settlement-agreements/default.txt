@@ -1,0 +1,55 @@
+Title: Settlement Agreements
+
+----
+
+Pageheadline: Settlement Agreements
+
+----
+
+Pagecontent:
+
+(link: /contracts-of-employment arialabel: Contracts of Employment text: Contracts of Employment)
+(link: /construction-industry arialabel: Construction Industry text: Construction Industry)
+(link: /disciplinary-procedures arialabel: Disciplinary Procedures text: Disciplinary Procedures)
+(link: /managing-redundancy arialabel: Managing Redundancy text: Managing Redundancy)
+(link: /restrictive-covenants arialabel: Restrictive Covenants text: Restrictive Covenants)
+(link: /settlement-agreements arialabel: Settlement Agreements text: Settlement Agreements)
+(link: /transfer-of-undertakings arialabel: Transfer of Undertakings text: Transfer of Undertakings)
+
+## We will draft your settlement agreements for you.
+
+The contractual rights of the individual will need examining in order to draft the settlement documentation accurately and as a company you will need to consider when company cars, laptops and company mobile phones will need to be returned to you. If such items are being given to the employee reflection of this needs to be written within the agreement.
+
+Settlement agreements are not legally binding on either employer or employee until they are signed and dated by both parties. 
+
+On the engrossment of the document, the terms contained therein become legally binding and what exists between the employer and employee is an enforceable contract which either party can sue on should any of the terms be breached.
+
+If you already have your Settlement Agreements in place we will happily advise upon and sign off those agreements (not drafted by us) on behalf of your employees.
+
+Discounts may be offered where there are multiple employees being laid off under Settlement Agreement Schemes. Talk to us about your business requirements.
+
+----
+
+Pagetitle: Settlement Agreements
+
+----
+
+Keywords: Settlement Agreements, Contractual rights of the individual, Solicitors, Norwich, Norfolk
+
+----
+
+Description: We can draft your settlement agreements for you. The contractual rights of the individual will need to be examined in order to draft the settlement.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow

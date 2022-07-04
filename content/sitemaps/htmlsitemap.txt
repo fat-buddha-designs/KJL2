@@ -1,0 +1,51 @@
+Title: Sitemap
+
+----
+
+Pagetitle: Sitemap
+
+----
+
+Keywords: Sitemap, Links, List, All, Pages of website
+
+----
+
+Description: Our sitemap lists and links to all pages on our website, the is relevant when you are trying to find a page and have been given the wrong URL.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow
+
+----
+
+Pageheadline: 
+
+----
+
+Pagecontent: 
+
+----
+
+Seo-description: This is our Sitemap.
+
+----
+
+Seo-keywords: Sitemap, Links, All, Pages
+
+----
+
+Text: 
+
+----
+
+Header: topography

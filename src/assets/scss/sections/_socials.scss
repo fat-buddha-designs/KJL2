@@ -1,0 +1,13 @@
+.social--links {
+  display: flex;
+  flex-direction: row;
+
+  a {
+    margin: .4rem;
+
+    svg {
+      height: 1.4em;
+      width: 1.4em;
+    }
+  }
+}

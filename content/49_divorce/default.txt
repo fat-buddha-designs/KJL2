@@ -1,0 +1,61 @@
+Title: Divorce
+
+----
+
+Pageheadline: Divorce
+
+----
+
+Pagecontent:
+
+(link: /financial-consent-order arialabel: Financial Consent Order text: Financial Consent Order)
+(link: /fixed-fee-divorce arialabel: Fixed Fee Divorce text: Fixed Fee Divorce)
+(link: /grounds-for-a-divorce arialabel: Grounds For A Divorce text: Grounds For A Divorce)
+(link: /high-net-worth-divorce arialabel: High Net Worth Divorce text: High Net Worth Divorce)
+(link: /seven-steps-to-a-divorce arialabel: Seven Steps to a Divorce text: Seven Steps to a Divorce)
+
+Our divorce solicitors are accredited by the Solicitors Regulation Authority and Resolution as specialising in providing advice and representation in divorce proceedings as well as having many years of experience in this area of work.
+
+KJL Solicitors provide representation in divorce proceedings occurring all over the country. 
+
+We have the experience and ability to provide representation regardless of where a person lives, at home or abroad, if the divorce is to take place within England or Wales.
+
+For convenience, we offer a choice of ways to provide instructions by meeting face to face, or using telephone or email. 
+
+KJL Solicitors have a modern approach to the legal role and take full advantage of technology to provide an efficient service whilst being available for advice and support without the need for office based appointments.
+
+We offer a low cost fixed fee divorce package which includes all steps from initial instructions through to the conclusion of the divorce. 
+
+Our solicitors fees for the fixed fee divorce service starts from £425 plus VAT*, assuming the divorce is uncontested. For free initial advice please call (tel: 01603717520   arialabel: call KJL Solicitors  text: 01603 717520).
+
+This fixed price divorce package has been designed to provide a cost effective solution to the divorce procedure, keeping the emotional and financial strain a divorce can cause to an absolute minimum.
+
+We also offer fixed fees for assisting clients with specific parts of a divorce. These start from £120 plus VAT for those who want limited help.
+
+*Court fees will also be applicable.
+
+----
+
+Pagetitle: Divorce
+
+----
+
+Keywords: Divorce, Committed adultery, Trial separation, Unreasonable behaviour, Solicitors, Norwich, Norfolk
+
+----
+
+Description: When a marriage has irretrievably broken down you will require the help of a Solicitor, we are able to advise both sides in a divorce.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow

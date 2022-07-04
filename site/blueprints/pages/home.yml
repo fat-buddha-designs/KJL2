@@ -1,0 +1,75 @@
+title: Home Page
+icon: 🏠
+
+options:
+  changeStatus: false 
+
+tabs:
+  content:
+    columns:
+    label: Page Content
+    fields:
+      pageHeadline:
+        label: Page Headline
+        type: text
+      firstpageContent:
+        label: First Piece Of Page Content
+        type: textarea
+      frontpageBlockOne:
+        type: structure
+        label: Frontpage Block One
+        max: 1
+        fields:
+          headline:
+            label: Frontpage Block Headline
+            type: text
+          blocktext:
+            label: Frontpage Block Text
+            type: textarea
+          url:
+            label: Frontpage Block Link
+            type: link
+      frontpageBlockTwo:
+        type: structure
+        label: Frontpage Block Two
+        max: 1
+        fields:
+          headline:
+            label: Frontpage Block Headline
+            type: text
+          blocktext:
+            label: Frontpage Block Text
+            type: textarea
+          url:
+            label: Frontpage Block Link
+            type: link
+      frontpageBlockThree:
+        type: structure
+        label: Frontpage Block Three
+        max: 1
+        fields:
+          headline:
+            label: Frontpage Block Headline
+            type: text
+          blocktext:
+            label: Frontpage Block Text
+            type: textarea
+          url:
+            label: Frontpage Block Link
+            type: link
+      secondpageContent:
+        label: Second Piece Of Page Content
+        type: textarea
+      keytestimonials:
+        type: structure
+        label: Frontpage Testimonials
+        fields:
+          text:
+            label: Testimonial Text
+            type: textarea
+
+  seo:
+    type: fields
+    label: Page SEO
+    fields:
+      meta: fields/pageseo

@@ -1,0 +1,57 @@
+Title: Grounds For A Divorce
+
+----
+
+Pageheadline: Grounds For A Divorce
+
+----
+
+Pagecontent:
+
+(link: /financial-consent-order arialabel: Financial Consent Order text: Financial Consent Order)
+(link: /fixed-fee-divorce arialabel: Fixed Fee Divorce text: Fixed Fee Divorce)
+(link: /grounds-for-a-divorce arialabel: Grounds For A Divorce text: Grounds For A Divorce)
+(link: /high-net-worth-divorce arialabel: High Net Worth Divorce text: High Net Worth Divorce)
+(link: /seven-steps-to-a-divorce arialabel: Seven Steps to a Divorce text: Seven Steps to a Divorce)
+
+## What is the ‘ground’ for divorce?
+
+ There is only one ground for divorce and that is that the marriage has irretrievably broken down. 
+ 
+ However, the person applying for the divorce must choose one of five facts to prove that the relationship has broken down.
+
+### What are the five facts?
+
+- A partner has had voluntary sexual intercourse with a member of the opposite sex and it is intolerable to live with them any longer.  This is known as adultery 
+- A partner has behaved in such a way that a person cannot be reasonably expected to live with them any longer.  This is known as unreasonable behaviour
+- A person has been deserted by their partner for a period of 2 years.  This is known as desertion 
+- A couple have lived apart for at least 2 years immediately preceding the divorce and there is consent to the divorce being granted.  This is known as 2 years separation with consent
+- A couple have lived apart for at least 5 years immediately preceding the divorce and for this, no consent is required. This is known as 5 years separation
+
+If you are considering beginning divorce proceedings please speak to one of our legal experts for free initial legal advice, call us on (tel: 01603717520   arialabel: call KJL Solicitors  text: 01603 717520).
+
+----
+
+Pagetitle: Grounds For A Divorce
+
+----
+
+Keywords: Grounds for a divorce, Grounds for divorce, Unreasonable behaviour, Deserted, 2 years seperation, Adultery, Solicitors, Norwich, Norfolk
+
+----
+
+Description: If you are considering beginning divorce proceedings please speak to one of our legal experts for free initial legal advice here at KJL Solicitors.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow

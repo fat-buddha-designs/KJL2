@@ -1,0 +1,53 @@
+Title: Dispute Resolution
+
+----
+
+Pageheadline: Dispute Resolution
+
+----
+
+Pagecontent:
+
+KJL Solicitors teamed up with alternative dispute resolution, (ADR), experts to create a one stop centre for resolving civil and commercial disputes.
+
+Mediation is a fast and very cost-effective method of resolving your differences and diagreements. It is possibly the most widely chosen form of ADR used today. 
+
+Current court rules require lawyers to consider the use of mediation before litigation and during any court proceedings. Going to court is normally more expensive, takes far longer and offers no guarantee of an outcome that satisfies the real needs or expectations of either party. 
+
+Mediation is simply a process of structured negotiation, facilitated by a neutral third party who assists the parties in reaching an agreement which is acceptable to them both.
+
+It is now routinely used in the civil and commercial disputes involving all general business issues, employment contracts, property matters, workplace disagreements as well as personal injury and negligence claims. 
+
+It is a dispute resolution process generally suitable for all types of dispute although in unusual circumstances, another process may be preferred.
+
+In mediation it is up to the parties to come up with the solutions to the dispute, not the mediator. 
+
+The mediator remains neutral at all times and does not normally express any opinion on the merits of either party's case. The mediator will however actively assist the parties to explore the issues in dispute, identify possible solutions and develop a sustainable settlement.
+
+When agreement is reached the mediator will oversee the writing and signing of any settlement agreement.  A settlement agreement is not binding until it is signed by all parties.
+
+----
+
+Pagetitle: Dispute Resolution
+
+----
+
+Keywords: Commercial disputes, Alternative dispute resolution, , Norwich, Norfolk, Mediator
+
+----
+
+Description: KJL Solicitors teamed up with alternative dispute resolution, (ADR), experts to create a one stop centre for resolving civil and commercial disputes.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow

@@ -1,0 +1,15 @@
+label: Text
+type: editor
+allowed: 
+  - blockquote
+  - h2
+  - h3
+  - paragraph
+  - hr 
+  - ul
+  - ol
+  - code
+pretty: false
+size: large
+when:
+  posttype: Medias

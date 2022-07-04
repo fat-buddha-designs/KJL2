@@ -1,0 +1,55 @@
+Title: Business Sales Affecting the Employee
+
+----
+
+Pageheadline: Business Sales Affecting the Employee
+
+----
+
+Pagecontent:
+
+(link: /business-sales-affecting-the-employee arialabel: Business Sales Affecting the Employee text: Business Sales Affecting the Employee)
+(link: /contracts-of-employment-terms-and-conditions-variations arialabel: Contracts of Employment Terms & Conditions & Variations text: Contracts of Employment Terms & Conditions & Variations)
+(link: /disciplinary-and-grievance-procedures arialabel: Disciplinary & Grievance Procedures text: Disciplinary & Grievance Procedures)
+(link: /new-acas-code-on-disciplinary-and-grievance-procedures arialabel: New Acas Code on Disciplinary & Grievance Procedures  text: New Acas Code on Disciplinary & Grievance Procedures)
+(link: /redundancy arialabel: Redundancy text: Redundancy)
+(link: /settlement-agreements-for-the-employee arialabel: Settlement Agreements for the Employee  text: Settlement Agreements for the Employee)
+(link: /unfair-wrongful-or-constructive-dismissal arialabel: Unfair Wrongful or Constructive Dismissal text: Unfair Wrongful or Constructive Dismissal)
+
+TUPE is the shortened version for the Transfer of Undertakings (Protection of Employment) Regulations. 
+
+These Regulations were first passed in 1981 but overhauled significantly in 2006. The 2006 Regulations came into force on 6th April 2006. TUPE is often regarded as a complex and tricky piece of legislation adopted by the UK in order to implement the European Acquired Rights Directive.
+
+The purpose of TUPE is to protect employees if the business in which they are employed changes hands. Its effect is to move employees and any liabilities associated with them from the old employer to the new employer by operation of law.
+
+Essentially when a business is sold as a going concern the incoming employer steps into the shoes of the outgoing employer, and all the existing employees have the legal right to transfer to their new employer on their existing terms and conditions of employment with all their existing rights and liabilities in tact.
+
+Employers frequently make the mistake of dismissing a workforce. 
+
+Any dismissal by virtue of the transfer is automatically unfair unless the employer can establish that the dismissal was in no way connected to the transfer but genuinely took place for an economical technical or organisational reason, however if the employer fails to consult as required under the Regulations the redundancy situation is likely to remain unfair.
+
+----
+
+Pagetitle: Business Sales Affecting the Employee
+
+----
+
+Keywords: Raising, Grievance, Employees, Employee, Grievance process, Disputes, Claimants, Solicitors, Norwich, Norfolk
+
+----
+
+Description: Raising grievances can be a good way of resolving disputes. We have advised many potential claimants on how to instigate the grievance process.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow

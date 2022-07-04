@@ -1,0 +1,6 @@
+name: line
+icon: my-line
+label: Horizontal Line
+fields:
+  horizontalRuler:
+    type: line

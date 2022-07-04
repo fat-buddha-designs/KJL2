@@ -1,0 +1,57 @@
+Title: Restrictive Covenants
+
+----
+
+Pageheadline: Restrictive Covenants
+
+----
+
+Pagecontent:
+
+(link: /contracts-of-employment arialabel: Contracts of Employment text: Contracts of Employment)
+(link: /construction-industry arialabel: Construction Industry text: Construction Industry)
+(link: /disciplinary-procedures arialabel: Disciplinary Procedures text: Disciplinary Procedures)
+(link: /managing-redundancy arialabel: Managing Redundancy text: Managing Redundancy)
+(link: /restrictive-covenants arialabel: Restrictive Covenants text: Restrictive Covenants)
+(link: /settlement-agreements arialabel: Settlement Agreements text: Settlement Agreements)
+(link: /transfer-of-undertakings arialabel: Transfer of Undertakings text: Transfer of Undertakings)
+
+Restrictive covenants amount to a form of restraint of trade, and therefore they will only be upheld as enforceable by courts if they protect a legitimate business interest. The restraint must go no further than protecting the legitimate interests of the business seeking to rely on the covenant. 
+
+However it is theoretically possible for valid restrictive covenants in a shareholder agreement to be wider than those in a contract of employment. 
+
+We also deal with breaches of restrictive covenants and the defence of attempts to enforce excessively harsh contractual terms.
+
+## Restraints of Trade and Non-Solicitation of Staff or Clients
+
+Restraints of trade seek to protect the goodwill and trade secrets of the business as well as restraining post termination competitive activity by the former employee with the business. 
+
+Non-solicitation of staff seeks to prevent an employee taking existing staff with them to a new place of employment. 
+
+Non-solicitation of clients seeks to prevent an employee post termination of contract from contacting, dealing with or soliciting clients or customers away from the business.
+
+----
+
+Pagetitle: Restrictive Covenants
+
+----
+
+Keywords: Restrictive Covenants, Restraint of Employee, Restraints of trade, Covenants, Solicitors, Norwich, Norfolk
+
+----
+
+Description: Restrictive covenants are a form of restraint of trade & they will only be upheld as enforceable by courts if they protect a business interest.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow

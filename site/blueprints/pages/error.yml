@@ -1,0 +1,50 @@
+title: Error
+
+options:
+  status: false
+
+fields:
+  pagetitle:
+    label: Page Title (for meta)
+    type: text
+    width: 1/2
+  keywords:
+    label: Page Keywords (for meta)
+    type: text
+    width: 1/2
+  description:
+    label: Page Description (for meta)
+    type: textarea
+    buttons: false
+    minlength: 120
+    maxlength: 150
+  pageimage:
+    label: Page Image (for meta)
+    type: files
+    layout: cards
+    info: "{{ file.dimensions }}"
+    max: 1
+  robotsindex:
+    label: Robots To Index Page Or Not
+    width: 1/2
+    type: select
+    options:
+      index: Index
+      noindex: No Index
+  robotsfollow:
+    label: Robots To Follow Page Or Not
+    width: 1/2
+    type: select
+    options:
+      follow: Follow
+      nofollow: No Follow
+  line:
+    type: line
+
+  pageheadline:
+    label: Page Headline
+    type: text
+  pagecontent:
+    label: Page Content
+    type: textarea
+    size: large

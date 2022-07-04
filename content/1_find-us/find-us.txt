@@ -1,0 +1,39 @@
+Title: Find Us
+
+----
+
+Pagetitle: Find Us
+
+----
+
+Keywords: Find Us, Find, Get directions, Get directions to KJL Solicitors,
+
+----
+
+Description: Use our interactive map to get directions to KJL Solicitors. We are conveniently based in Blofield, just off of the A47, with parking outside.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow
+
+----
+
+Pageheadline: 
+
+----
+
+Pagecontent: 
+
+----
+
+Text: 

@@ -1,0 +1,63 @@
+Title: 404
+
+----
+
+Pagetitle: 404 Error
+
+----
+
+Keywords: 404 Error,Link to homepage, broken url
+
+----
+
+Description: We appear to have a 404 error, this usually means the URL you are looking for is not available, please go to the homepage and follow the navigation.
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: noindex
+
+----
+
+Robotsfollow: nofollow
+
+----
+
+Pageheadline: 404 Error
+
+----
+
+Pagecontent:
+
+We're sorry. The page you are looking for can't be found.
+
+Why not try the Homepage?
+
+or <script>
+                    document.write('<a href="' + document.referrer + '">Go Back</a>');
+                    </script> to your previous page..
+
+----
+
+Seo-description: Oops, we have an error, maybe you have entered the wrong URL, head back to the homepage and try again.
+
+----
+
+Seo-keywords: 404, Error, homepage links
+
+----
+
+Text:
+
+We're sorry. The page you are looking for can't be found. 
+Why not try the <a href="/" aria-label=" Homepage`">Homepage</a>?
+or <a href="#" onClick="history.go(-1)">Go Back</a> to your previous page.
+
+----
+
+Header: feather

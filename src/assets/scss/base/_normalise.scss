@@ -1,0 +1,152 @@
+html {
+  box-sizing: border-box;
+  height: 100%;
+  -ms-overflow-style: scrollbar;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-feature-settings: 'pnum';
+  font-size: 1rem;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-style: normal;
+  font-variant-numeric: proportional-nums;
+  font-weight: normal;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+  text-rendering: optimizeSpeed;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+* {
+  margin: 0;
+}
+
+*:where(:not(iframe, canvas, img, svg, video):not(svg *, symbol *)) {
+  all: unset;
+  display: revert;
+}
+
+*:focus:not(:focus-visible),
+*::before:focus:not(:focus-visible),
+*::after:focus:not(:focus-visible) {
+  outline: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol,
+li,
+p,
+pre,
+blockquote,
+figure,
+hr {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol,
+li {
+  overflow-wrap: break-word;
+}
+
+p {
+  hyphens: auto;
+  overflow-wrap: break-word;
+}
+
+a,
+area,
+button,
+[role="button"],
+input,
+label,
+select,
+summary,
+textarea {
+  touch-action: manipulation;
+}
+
+ul[class],
+ol[class] {
+  list-style: none;
+  padding: 0;
+}
+
+audio,
+iframe,
+img,
+picture,
+object,
+video,
+canvas {
+  display: block;
+  max-width: 100%;
+  object-fit: cover;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+:where([contenteditable]) {
+  -webkit-line-break: after-white-space;
+  line-break: after-white-space;
+  overflow-wrap: break-word;
+  -webkit-user-modify: read-write;
+}
+
+[hidden] {
+  display: none;
+}
+
+[aria-hidden="false"][hidden] {
+  display: initial;
+}
+
+[aria-hidden="false"][hidden]:not(:focus) {
+  clip: rect(0, 0, 0, 0);
+  clip-path: inset(100%);
+  position: absolute;
+}
+
+noscript {
+  display: block;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: .01ms;
+    animation-iteration-count: 1;
+    scroll-behavior: auto;
+    transition-duration: .01ms;
+  }
+}

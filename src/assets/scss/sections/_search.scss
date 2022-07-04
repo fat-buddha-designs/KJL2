@@ -1,0 +1,29 @@
+.search--query {
+  display: flex;
+  flex-direction: row;
+
+  input:first-of-type {
+    border-radius: var(--bor-rad) 0 0 var(--bor-rad);
+  }
+
+  input:last-of-type {
+    background-color: var(--color-p);
+    border-left: 0;
+    border-radius: 0 var(--bor-rad) var(--bor-rad) 0;
+    cursor: pointer;
+    width: 2.5rem;
+  }
+
+  .icon {
+    position: relative;
+    right: 1.8rem;
+    top: .7rem;
+  }
+}
+
+.search--results {
+  li {
+    margin-top: 1em;
+    padding: .4em;
+  }
+}

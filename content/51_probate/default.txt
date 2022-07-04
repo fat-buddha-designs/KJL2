@@ -1,0 +1,86 @@
+Title: Probate
+
+----
+
+Pageheadline: Probate
+
+----
+
+Pagecontent:
+
+The duties of an executor can be a time-consuming process which includes taking an inventory of the deceased’s possessions and debts, collecting the assets, paying the bills and distributing the legacies (whether specific items, cash sums or residue) and following the testator’s wishes as closely as possible.
+
+When a close relative or friend dies they will leave behind an awful lot of paperwork. Getting a medical certificate, registering the death and arranging a funeral is only the start of it; the next step is to go through probate - the process of unlocking all the assets in the deceased's estate and sharing them out among the beneficiaries.
+
+Probate is a lengthy and sometimes fraught process, at what can be a distressing time. One day the job may fall to you, so what do you need to know?
+
+Once the courts have issued a grant of probate you can gather all the assets, sell the property, clear the debts, pay any IHT and distribute what is left but it must be done according to the terms of the will, or if there is no will the laws of intestacy.
+
+Kerry Joan-Law from KJL Solicitors Ltd says "It can take six to nine months to administer the typical estate, depending on what assets the deceased held and how quickly a buyer is found for any property. There will also be a number of costs to pay, such as funeral expenses, court fees and any legal costs. "These can be deducted from the estate's funds before the money is distributed to beneficiaries,"
+
+Dealing with somebody's estate is a big responsibility not only do you have a duty to administer the estate quickly and fairly but you are fully accountable for your actions. In some circumstances you can be financially liable for any errors and personal risks if things aren't done correctly.
+
+With a lot of money at stake matters as between beneficiaries can turn nasty and deciding whether to sell a property or when to sell stocks and shares in a volatile market can cause much conflict between executors.
+
+In complicated estates you should seek professional legal assistance but in less complex estates probate and or the obtaining of it may be summarised of what you need to do when someone dies:-
+
+Register the death and obtain copies of the death certificate.
+Find and review the deceased's will or establish if they died intestate (i.e. without a will).
+Determine who the executors are and whether they are able and willing to act. If they can't, or if the deceased didn't leave a valid will, determine who will act as executors of the estate. Get the agreement of the executors in writing.
+Obtain the probate forms required by applying to the Personal Application Department of the most accessible and convenient Probate Registry. The probate forms can be found by clicking the link (link: http://search2.hmrc.gov.uk/kb5/hmrc/forms/view.page?record=VKhb2F_R9Q4#forms text: http://search2.hmrc.gov.uk/kb5/hmrc/forms/view.page?record=VKhb2F_R9Q4#forms)
+Secure the house and/or other property of the deceased, insuring the house, car and any other valuable items as necessary.
+Organise yourself for valuing assets, corresponding with others, keeping financial records and receiving the deceased's mail. Open an executors' bank account.
+Write to all financial and business organisations in which the deceased had an interest. Include a copy of the death certificate and request the necessary information for the probate application and the returns to HMRC.
+List the deceased's assets and liabilities. Review them. Is it necessary to apply for a grant of probate?  Is the estate insolvent?
+Raise funds to pay inheritance tax if the estate appears to be worth more than £325,000 (or where it exceeds the higher value available after application of a predeceasing spouse’s available inheritance tax allowance). Raise the money, for example, by borrowing or selling some of the deceased's personal property. Inheritance tax must be paid before the grant of probate can be issued. Consider raising the funds from the deceased’s own account using the Inheritance Tax Direct Payment Scheme.
+Fill out the probate forms as information is collected and return them to the Probate Registry concerned. Complete Form IHT205 if the estate is either excepted or exempt and excepted. However, if the estate is neither an excepted estate nor an exempt and excepted estate, then it’s necessary for Form IHT400 to be completed and submitted to HMRC prior to applying for probate.
+All executors must visit the Probate Registry (or local office) - after the Probate Registry has contacted the executors - to sign or swear the necessary probate forms and pay probate fees.
+Pay any inheritance tax due at the time of application and arrange for instalment payments if any of the assets qualify.
+The Probate Registry concerned sends the grant of probate to you by post along with any additional probate copies (sealed copies) ordered.
+Send copies of the grant of probate to each organisation (bank, etc.) to show the executors' entitlement to deal with the deceased's assets. In return, the organisations will release the deceased's assets to the executors and close or transfer the deceased's accounts and files.
+Advertise for creditors, if necessary. If any large or unexpected claims result, you should seek professional advice.
+Respond to any queries raised by HMRC concerning the values of assets or liabilities of the estate. Agree final figures with them. Report any additional assets or liabilities that have come to light since probate was granted.
+When all the assets are collected, pay the debts, including any unpaid income tax and capital gains tax relating to the deceased's income up to the time of death.
+Ask HMRC for an income tax return or repayment claim form and complete it with details of the income of the estate to the end of the tax year during which the deceased died. Pay any tax due. A tax return may also be needed for each subsequent tax year if the administration of the estate isn't complete within one tax year.
+Ask the HMRC for Form IHT30 (Application for a Clearance Certificate); complete it and have it signed by all the executors and in due course receive the signed discharge certificate from HMRC.
+Check that there have been no claims against the estate under the Inheritance (Provision for Family and Dependants) Act 1975 during the six months following the grant of probate.
+When all the assets have been accounted for and debts paid, legacies can be distributed. Get a receipt from each beneficiary.
+Draw up estate accounts. Get approval of the accounts from all residuary beneficiaries (or those entitled under the intestacy laws) and send them copies. Make payment of the final balance of residue due to beneficiaries. Issue HMRC Form R185 (Estate Income) to the residuary beneficiaries showing their shares of the income of the estate and the tax deducted from it during the tax year.
+Close the executors' account when all cheques have cleared.
+Probate is now complete. All accounts should be saved for 12 years, along with the other principal estate papers.
+
+Some useful links:-
+
+(link: https://www.gov.uk/valuing-estate-of-someone-who-died text: https://www.gov.uk/valuing-estate-of-someone-who-died)
+
+(link: https://www.gov.uk/inheritance-tax/inheritance-tax-when-someone-living-outside-the-uk-dies text: https://www.gov.uk/inheritance-tax/inheritance-tax-when-someone-living-outside-the-uk-dies)
+
+To ensure your needs are carried out efficiently and with humility please do not hesitate to contact us at KJL Solicitors, Blofield Chambers, The Street, Blofield, Norwich, NR13 4AA. 
+
+We are conveniently based just outside Norwich within minutes of the A47 and with parking right outside our offices
+
+----
+
+Pagetitle: Probate
+
+----
+
+Keywords: Probate, Administer the estate, Died intestate, Executors, Inheritance tax, Probate Registry, Solicitors, Norwich, Norfolk
+
+----
+
+Description: Probate is a lengthy and sometimes fraught process, at what can be a distressing time. One day the job may fall to you, so what do you need to know?
+
+----
+
+Pageimage:
+
+- kjl_large_logo.png
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow

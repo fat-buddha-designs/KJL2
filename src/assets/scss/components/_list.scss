@@ -1,0 +1,59 @@
+ul {
+  list-style: none outside none;
+  margin-left: 0;
+  white-space: nowrap;
+
+  li {
+    white-space: normal;
+    word-break: keep-all;
+  }
+
+  li::before {
+    content: none;
+  }
+}
+
+ol {
+  counter-reset: ol-counter;
+  list-style: decimal outside none;
+  margin-bottom: 1rem;
+  margin-left: 0;
+  white-space: nowrap;
+
+  li {
+    counter-increment: ol-counter;
+    white-space: normal;
+    word-break: keep-all;
+  }
+}
+
+.breadcrumb ol {
+  list-style: none;
+  padding: 0;
+
+  li {
+    display: inline-block;
+    font-size: 12px;
+  }
+
+  a {
+    font-size: inherit;
+    text-decoration: none;
+  }
+
+  li::before {
+    content: '';
+    display: inline-block;
+  }
+
+  li::after {
+    content: '/';
+    display: inline-block;
+  }
+
+  li:last-of-type {
+    &::after {
+      content: '';
+    }
+  }
+}
