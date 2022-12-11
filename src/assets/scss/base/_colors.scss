@@ -34,14 +34,13 @@
   --yellow-color-drk: hsl(var(--yellow-hue), 70%, 30%);
   --yellow-color: hsl(var(--yellow-hue), 70%, 50%);
   --yellow-color-lgt: hsl(var(--yellow-hue), 70%, 70%);
-  --twitter-color: #55acee;
-  --facebook-color: #3b5998;
-  --instagram-color: #e95950;
-  --pinterest-color: #cb2027;
-  --linkedin-color: #007bb5;
-  --whatsapp-color: #4dc247;
-  --youtube-color: #cc181e;
+  --color-p-l: 95%;
+  --color-p-1-l: 89%;
+  --color-p-2-l: 87%;
 
+  --color-p: hsl(0, 0%, var(--color-p-l));
+  --color-p-1: hsl(0, 0%, var(--color-p-1-l));
+  --color-p-2: hsl(0, 0%, var(--color-p-2-l));
   --pri-color: hsl(var(--pri-color-h), var(--pri-color-s), var(--pri-color-l));
   --pri-color-lgt: hsl(var(--pri-color-h), var(--pri-color-s), calc(var(--pri-color-l) / 0.8));
   --pri-color-drk: hsl(var(--pri-color-h), var(--pri-color-s), calc(var(--pri-color-l) * 0.8));
@@ -85,6 +84,8 @@
     --pri-color-l: 33%;
     --sec-color-l: 20%;
     --g-color-l: 18%;
+    --color-p-l: 30%;
+    --color-p-1-l: 20%;
   }
 }
 
@@ -107,4 +108,6 @@
   --pri-color-l: 33%;
   --sec-color-l: 20%;
   --g-color-l: 18%;
+  --color-p-l: 30%;
+  --color-p-1-l: 20%;
 }

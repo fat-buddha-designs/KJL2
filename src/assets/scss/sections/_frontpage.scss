@@ -1,9 +1,9 @@
 .frontpage--block--container {
-  background-color: var(--pri-color);
+  background-color: var(--color-p-1);
   margin-bottom: 2rem;
   margin-left: 50%;
   margin-top: .5rem;
-  padding: 5vh 2rem;
+  padding: 5vh 1rem;
   transform: translateX(-50%);
   width: 100vw;
 
@@ -39,7 +39,7 @@
       }
 
       a {
-        background-color: var(--g-color-8);
+        background-color: var(--pri-color);
         border-radius: var(--bor-rad);
         color: var(--wh-color);
         font-style: normal;
@@ -85,9 +85,7 @@
 
     .auto--grid--fit {
 
-
       .frontpage--block {
-
 
         h2 {
 

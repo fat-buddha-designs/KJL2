@@ -54,3 +54,14 @@ Icon
 # ---------------
 
 /site/config/.license
+
+# Root Files
+# ---------------
+
+composer.json
+composer.lock
+package.json
+package-lock.json
+.prettierrc
+.editorconfig
+/src

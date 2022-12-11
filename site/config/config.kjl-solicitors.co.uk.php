@@ -1,49 +1,68 @@
 <?php
 return [
     'debug' => false,
-    'url' => 'https://www.kjl-solicitors.co.uk/',
+    'url' => 'https://fatbuddhadevelopment.co.uk/',
     'smartypants' => true,
+    'afbora.kirby-minify-html' => [
+      'enabled' => true,
+      'options' => [
+        'doOptimizeViaHtmlDomParser'     => true,
+        'doRemoveComments'               => true,
+        'doRemoveSpacesBetweenTags'      => false
+      ]
+    ],
     'panel' => [
+      'install' => true,
       'css' => 'assets/panel/css/custom-panel.css',
-      // 'favicon' => '/assets/panel/favicon.ico'
     ],
     'routes' => [
       [
         'pattern' => 'sitemap.xml',
-        'action'  => function() {
-            $pages = site()->pages()->index();
-            $ignore = kirby()->option('sitemap.ignore', ['error']);
-            $content = snippet('sitemap', compact('pages', 'ignore'), true);
-            return new Kirby\Cms\Response($content, 'application/xml');
+        'method' => 'GET',
+        'action'  => function () {
+            $options = [
+                'images'       => false,
+                'videos'       => false,
+            ];
+            $feed = site()->index()->listed()->limit(50000)->sitemap($options);
+            return $feed;
         }
       ],
       [
-        'pattern' => 'sitemap',
-        'action'  => function() {
-          return go('sitemap.xml', 301);
+        'pattern' => 'sitemap.xsl',
+        'method' => 'GET',
+        'action'  => function () {
+            snippet('feed/sitemapxsl');
+            die;
         }
       ],
+      [
+        'pattern' => 'feed',
+        'method' => 'GET',
+        'action'  => function () {
+            $options = [
+                'title'       => 'Our Latest News Articles',
+                'description' => 'Read the latest news from KJL Solicitors',
+                'link'        => 'news'
+            ];
+            $feed = page('news')->children()->listed()->flip()->limit(10)->feed($options);
+            return $feed;
+        }
     ],
-      'blocks' => [
-        'fieldsets' => [
-          'text' => [
-            'label' => 'Text',
-            'type' => 'group',
-            'fieldsets' => [
-              'text',
-              'heading'
+    ],
+    'bnomei.robots-txt.content' => null,
+    'bnomei.robots-txt.sitemap' => null,
+    'bnomei.robots-txt.groups' => [
+        '*' => [
+            'disallow' => [
+                '/kirby/',
+                '/site/',
+            ],
+            'allow' => [
+                '/media/',
             ]
-          ],
-          'media' => [
-            'label' => 'Media',
-            'type' => 'group',
-            'fieldsets' => [
-              'image',
-              'video'
-            ]
-          ]
         ]
-      ],
+    ],
       'thumbs' => [
         'srcsets' => [
             'default' => [
@@ -68,6 +87,14 @@ return [
                 '1800w' => ['width' => 1800, 'format' => 'webp']
             ],
         ]
+    ],
+    'michnhokn.cookie-banner.content' => [
+      'title' => 'Cookie settings',
+      'text' => 'We use cookies to provide you with the best possible experience. They also allow us to analyze user behavior in order to constantly improve the website for you. (link: policies text: Privacy Policy)',
+      'essentialText' => 'Essential',
+      'denyAll' => 'Reject All',
+      'acceptAll' => 'Accept All',
+      'save' => 'Save settings',
     ],
       'medienbaecker.autoresize.maxWidth' => 750,
       'medienbaecker.autoresize.maxHeight' => 750,

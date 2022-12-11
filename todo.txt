@@ -1,0 +1,2 @@
+Change url in config file when live
+Change Url in contact controller

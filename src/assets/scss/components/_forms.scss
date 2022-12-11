@@ -48,12 +48,14 @@ input[type=submit] {
   margin-left: 0;
   outline: none;
   padding: .6rem 1.2rem;
+  text-align: center;
   transition: all var(--dur) var(--trans);
   width: 300px;
 
   &:hover,
   &:focus {
     background-color: var(--pri-color-drk);
+    box-shadow: var(--shadow-lg);
     font-style: italic;
   }
 

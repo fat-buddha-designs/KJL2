@@ -6,7 +6,7 @@
 
 <?php snippet('header') ?>
 
-<main id="main" tab-index="-1">
+<main id="main">
     <section>
         <h1><?= $page->pageheadline()->or($page->title())->html() ?></h1>
             <iframe width="1200" height="350" id="gmap_canvas"

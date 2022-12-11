@@ -1,0 +1,38 @@
+type: group
+fields:
+  pagetitle:
+    label: Article Title (for meta)
+    type: text
+    width: 1/2
+  keywords:
+    label: Article Keywords (for meta)
+    type: text
+    width: 1/2
+  description:
+    label: Article Description (for meta)
+    type: textarea
+    buttons: false
+    minlength: 120
+    maxlength: 150
+  pageimage:
+    label: Article Image (for meta)
+    type: files
+    layout: cards
+    info: "{{ file.dimensions }}"
+    max: 1
+  robotsindex:
+    label: Robots To Index Article Or Not
+    width: 1/2
+    type: select
+    default: index
+    options:
+      index: Index
+      noindex: No Index
+  robotsfollow:
+    label: Robots To Follow Article Or Not
+    width: 1/2
+    type: select
+    default: follow
+    options:
+      follow: Follow
+      nofollow: No Follow

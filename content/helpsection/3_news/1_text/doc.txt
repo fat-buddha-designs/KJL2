@@ -1,0 +1,15 @@
+Title: How To Add News Articles
+----
+Text:
+
+To add News articles go to the front page of the CMS once there you will a section called 'Draft News Articles', click on the 'Add' button above this to add a new article.
+
+This will display a pop up box, here add the title of the News article, the 'URL appendix' will auto populate and should not need modifying, after this click on the 'Create Draft' button.
+
+Next you will be brought to a page for writing the News article, firstly if the article has an image add that along with a description for the image. After this write the content of the article, don't forget to save the article, you can come back to the content and modify it for as long as you want, it's not published to the website yet.
+
+Once you are happy with the page content you will need to add the SEO data for the News article by clicking on 'Article Seo' which is the tab next to 'Article Content'.
+
+Once on the 'Article Seo' page you will need to fill in the relevant data and add an image and description (this can be the same as for the article itself). Save any changes.
+
+Once you are happy with the article and it's SEO data you can publish it by clicking on 'Draft', just under the article title. You can either set it to 'Review' or 'Published'. Once published it will appear on the website.

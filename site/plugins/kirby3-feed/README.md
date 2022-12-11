@@ -1,24 +1,34 @@
-# Kirby 3 Feed
+# Kirby 3 Feed and Sitemap
 
 ![Release](https://flat.badgen.net/packagist/v/bnomei/kirby3-feed?color=ae81ff)
-![Stars](https://flat.badgen.net/packagist/ghs/bnomei/kirby3-feed?color=272822)
 ![Downloads](https://flat.badgen.net/packagist/dt/bnomei/kirby3-feed?color=272822)
-![Issues](https://flat.badgen.net/packagist/ghi/bnomei/kirby3-feed?color=e6db74)
 [![Build Status](https://flat.badgen.net/travis/bnomei/kirby3-feed)](https://travis-ci.com/bnomei/kirby3-feed)
 [![Coverage Status](https://flat.badgen.net/coveralls/c/github/bnomei/kirby3-feed)](https://coveralls.io/github/bnomei/kirby3-feed) 
 [![Maintainability](https://flat.badgen.net/codeclimate/maintainability/bnomei/kirby3-feed)](https://codeclimate.com/github/bnomei/kirby3-feed) 
-[![Demo](https://flat.badgen.net/badge/website/examples?color=f92672)](https://kirby3-plugins.bnomei.com/feed) 
-[![Gitter](https://flat.badgen.net/badge/gitter/chat?color=982ab3)](https://gitter.im/bnomei-kirby-3-plugins/community) 
 [![Twitter](https://flat.badgen.net/badge/twitter/bnomei?color=66d9ef)](https://twitter.com/bnomei)
 
-Generate a RSS/JSON-Feed from a Pages-Collection.
+Generate a RSS/JSON/Sitemap-Feed from a Pages-Collection.
 
 ## Commercial Usage
 
-This plugin is free but if you use it in a commercial project please consider to 
-- [make a donation 🍻](https://www.paypal.me/bnomei/3) or
-- [buy me ☕](https://buymeacoff.ee/bnomei) or
-- [buy a Kirby license using this affiliate link](https://a.paddle.com/v2/click/1129/35731?link=1170)
+> <br>
+><b>Support open source!</b><br><br>
+> This plugin is free but if you use it in a commercial project please consider to sponsor me or make a donation.<br>
+> If my work helped you to make some cash it seems fair to me that I might get a little reward as well, right?<br><br>
+> Be kind. Share a little. Thanks.<br><br>
+> &dash; Bruno<br>
+> &nbsp; 
+
+| M | O | N | E | Y |
+|---|----|---|---|---|
+| [Github sponsor](https://github.com/sponsors/bnomei) | [Patreon](https://patreon.com/bnomei) | [Buy Me a Coffee](https://buymeacoff.ee/bnomei) | [Paypal dontation](https://www.paypal.me/bnomei/15) | [Hire me](mailto:b@bnomei.com?subject=Kirby) |
+
+## Similar Plugins
+
+- [kirby3-xmlsitemap](https://github.com/omz13/kirby3-xmlsitemap)
+- [kirby3-feeds](https://github.com/omz13/kirby3-feeds)
+
+> both have not seen any updates since April 2019
 
 ## Installation
 
@@ -26,7 +36,7 @@ This plugin is free but if you use it in a commercial project please consider to
 - `git submodule add https://github.com/bnomei/kirby3-feed.git site/plugins/kirby3-feed` or
 - `composer require bnomei/kirby3-feed`
 
-## Usage
+## Usage Feed
 
 You can use this in a template for a dedicated feed page, in a template controller or a route.
 
@@ -57,12 +67,13 @@ If you use these defaults you need to provide the fields `date (type: date)` and
     'textfield' => 'text',
     'modified' => time(),
     'snippet' => 'feed/rss', // 'feed/json'
+    'dateformat' => 'r',
     'mime' => null,
     'sort' => true,
 ]
 ```
 
-**virtual page in site/config.php**
+**virtual page in site/config/config.php**
 
 ```php
 return [
@@ -79,8 +90,8 @@ return [
                 $feed = page('blog')->children()->listed()->flip()->limit(10)->feed($options);
                 return $feed;
             }
-        ]
-    ]
+        ],
+    ],
 ];
 ```
 
@@ -113,11 +124,84 @@ $feed = page('blog')->children()->listed()->sortBy(function ($page) {
 }, 'desc')->limit(10)->feed($options);
 ```
 
+## Usage Sitemap
+
+**options array defaults**
+
+If you use these defaults you need to provide the fields `date (type: date)` and `text (type: text)`.
+
+```php
+[
+    'dateformat' => 'c',
+    'xsl' => true,
+    'urlfield' => 'url',
+    'modified' => time(),
+    'snippet' => 'feed/sitemap'
+    'mime' => null,
+    'sort' => true,
+    'images' => false,
+    'imagesfield' => 'images',
+    'imagetitlefield' => 'title',
+    'imagecaptionfield' => 'caption',
+    'imagelicensefield' => 'license',
+    'videos' => false,
+    'videosfield' => 'videos',
+    'videotitlefield' => 'title',
+    'videothumbnailfield' => 'thumbnail',
+    'videodescriptionfield' => 'description',
+    'videourlfield' => 'url',
+]
+```
+
+**virtual page in site/config.php**
+
+```php
+return [
+    'routes' => [
+        // ... other routes,
+        [
+            'pattern' => 'sitemap.xml',
+            'method' => 'GET',
+            'action'  => function () {
+                $options = [
+                    'images'       => false,
+                    'videos'       => false,
+                ];
+                $feed = site()->index()->listed()->limit(50000)->sitemap($options);
+                return $feed;
+            }
+        ],
+        // (optional) Add stylesheet for human readable version of the xml file.
+        // With that stylesheet visiting the xml in a browser will per-generate the images.
+        // The images will NOT be pre-generated if the xml file is downloaded (by google).
+        [
+            'pattern' => 'sitemap.xsl',
+            'method' => 'GET',
+            'action'  => function () {
+                snippet('feed/sitemapxsl');
+                die;
+            }
+        ],
+    ],
+];
+```
+
+**example for excluding pages from sitemap**
+
+see [Kirby Docs -Filtering compendium](https://getkirby.com/docs/cookbook/content/filtering)
+
+```php
+$feed = site()->index()->listed()
+    ->filterBy('template', '!=', 'excludeme')
+    ->limit(50000)->sitemap($options);
+```
+
+
 ## Settings
 
 | bnomei.feed.              | Default        | Description               |            
 |---------------------------|----------------|---------------------------|
-| mime | `null` | to autodetect json or rss-xml otherwise enforce output with a certain [mime type](https://github.com/k-next/kirby/blob/master/src/Toolkit/Mime.php) |
+| mime | `null` | to autodetect json or rss-xml otherwise enforce output with a certain MIME type (one of the extensions defined in Kirby's [Mime class](https://github.com/k-next/kirby/blob/master/src/Toolkit/Mime.php), e.g. value `xml` to enforce `text/xml`) |
 | expires |`60*24*7` | in minutes |
 
 > The plugin will automatically devalidate the cache if any of the Page-Objects were modified.

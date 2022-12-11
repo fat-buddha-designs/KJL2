@@ -115,6 +115,7 @@ final class Feed
     public function optionsFromDefault(?Pages $pages = null, $options = []): array
     {
         $defaults = [
+            // json/rss
             'url' => site()->url(),
             'feedurl' => site()->url() . '/feed/',
             'title' => 'Feed',
@@ -128,6 +129,20 @@ final class Feed
             'snippet' => 'feed/rss',
             'mime' => null,
             'sort' => true,
+            // sitemap
+            'dateformat' => 'r', // rss => r, sitemap => c
+            'xsl' => true,
+            'images' => false,
+            'imagesfield' => 'images',
+            'imagetitlefield' => 'title',
+            'imagecaptionfield' => 'caption',
+            'imagelicensefield' => 'license',
+            'videos' => false,
+            'videosfield' => 'videos',
+            'videotitlefield' => 'title',
+            'videothumbnailfield' => 'thumbnail',
+            'videodescriptionfield' => 'description',
+            'videourlfield' => 'url',
         ];
         $options = array_merge($defaults, $options);
 
@@ -139,10 +154,10 @@ final class Feed
         $options['link'] = url($options['link']);
 
         if ($items && $items->count() && $options['datefield'] === 'modified') {
-            $options['modified'] = $items->first()->modified('r', 'date');
+            $options['modified'] = $items->first()->modified($options['dateformat'], 'date');
         } elseif ($items && $items->count()) {
             $datefieldName = $options['datefield'];
-            $options['modified'] = date('r', $items->first()->{$datefieldName}()->toTimestamp());
+            $options['modified'] = date($options['dateformat'], $items->first()->{$datefieldName}()->toTimestamp());
         } else {
             $options['modified'] = site()->homePage()->modified();
         }
@@ -160,6 +175,8 @@ final class Feed
 
         if ($mime !== null) {
             return new Response($this->string, $mime);
+        } elseif ($snippet === 'feed/sitemap' && Feed::isXml($this->string)) {
+            return new Response($this->string, 'xml');
         } elseif ($snippet === 'feed/json' || Feed::isJson($this->string)) {
             return new Response($this->string, 'json');
         } elseif ($snippet === 'feed/rss' || Feed::isXml($this->string)) {

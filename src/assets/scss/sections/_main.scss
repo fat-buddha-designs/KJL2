@@ -23,13 +23,13 @@ main {
 
   section {
     margin: 0 auto;
-    max-width: var(--w-width);
+    max-inline-size: var(--w-width);
     padding: 1rem;
   }
 
   article {
     margin: 0 auto;
-    max-width: var(--n-width);
+    max-inline-size: var(--n-width);
     padding: 1rem 1.5rem;
 
     figure img {

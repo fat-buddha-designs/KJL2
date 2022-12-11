@@ -1,0 +1,15 @@
+title: Docs
+
+accept:
+  type: pdf, doc, docx
+
+columns:
+  - width: 1/2
+    sections:
+      content:
+        type: fields
+        fields:
+            date:
+            label: Document Date
+            type: date
+            display: DD/MM/YYYY

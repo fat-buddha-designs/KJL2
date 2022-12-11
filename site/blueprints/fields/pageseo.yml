@@ -24,6 +24,7 @@ fields:
     label: Robots To Index Page Or Not
     width: 1/2
     type: select
+    default: index
     options:
       index: Index
       noindex: No Index
@@ -31,6 +32,7 @@ fields:
     label: Robots To Follow Page Or Not
     width: 1/2
     type: select
+    default: follow
     options:
       follow: Follow
       nofollow: No Follow

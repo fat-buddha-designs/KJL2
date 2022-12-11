@@ -18,7 +18,7 @@
   "create": "Créer",
 
   "date": "Date",
-  "date.select": "Choisissez une date",
+  "date.select": "Choisir une date",
 
   "day": "Jour",
   "days.fri": "Ven",
@@ -340,7 +340,7 @@
   "license": "Licence",
   "license.buy": "Acheter une licence",
   "license.register": "S’enregistrer",
-  "license.manage": "Manage your licenses",
+  "license.manage": "Gérer vos licences",
   "license.register.help": "Vous avez reçu votre numéro de licence par courriel après l'achat. Veuillez le copier et le coller ici pour l'enregistrer.",
   "license.register.label": "Veuillez saisir votre numéro de licence",
   "license.register.success": "Merci pour votre soutien à Kirby",
@@ -360,7 +360,7 @@
   "lock.unlock": "Déverrouiller",
   "lock.isUnlocked": "Vos modifications non enregistrées ont été écrasées pas un autre utilisateur. Vous pouvez télécharger vos modifications pour les fusionner manuellement.",
 
-  "login": "Se connecter",
+  "login": "Connexion",
   "login.code.label.login": "Code de connexion",
   "login.code.label.password-reset": "Code de réinitialisation du mot de passe",
   "login.code.placeholder.email": "000 000",

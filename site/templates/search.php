@@ -6,7 +6,7 @@
 
 <?php snippet('header') ?>
 
-<main id="main" tab-index="-1">
+<main id="main">
   <section>
     <article>
       <h1><?= $page->pageheadline()->or($page->title())->html() ?></h1>

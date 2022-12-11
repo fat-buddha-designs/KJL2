@@ -1,0 +1,11 @@
+Title: KJL Solicitors CMS Help
+----
+Text:
+
+Kirby is a simple but powerful CMS, most tasks can be completed from the front page of the CMS.
+
+Use the left hand menu for details on adding pages or news articles etc.
+
+To get back to the front page of the CMS click on the menu in the top-bar of the page and go to 'Site'.
+
+For help click on the menu in the top-bar of the page and go to 'Help' and follow the guidance there.

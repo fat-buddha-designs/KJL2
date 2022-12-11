@@ -1,17 +1,10 @@
 {
   "index.js": {
-    "file": "assets/index.2288bdc3.js",
+    "file": "assets/index.50e1e05a.js",
     "src": "index.js",
     "isEntry": true,
     "css": [
-      "assets/index.61701485.css"
-    ],
-    "assets": [
-      "assets/pt-serif-v9-latin-regular.e18ade8d.woff2",
-      "assets/pt-serif-v9-latin-regular.9846fd9f.woff",
-      "assets/pontano-sans-v5-latin-regular.ec9d2734.woff2",
-      "assets/pontano-sans-v5-latin-regular.3d69a665.woff",
-      "assets/pontano-sans-v5-latin-regular.13b91c5f.ttf"
+      "assets/index.c2b99d57.css"
     ]
   }
 }

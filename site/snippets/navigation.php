@@ -1,13 +1,13 @@
 <?php if($site->mainnavigation()->isNotEmpty()): ?>
 <div class="top-bar-container">
   <div class="top-bar-title">
-    <span data-responsive-toggle="responsive-menu" data-hide-for="medium">
+    <span data-responsive-toggle="responsive-menu" data-hide-for="large">
       <button class="menu-icon" type="button" data-toggle></button>
     </span>
   </div>
   <div id="responsive-menu">
     <div class="top-bar">
-      <ul class="dropdown vertical medium-horizontal menu" data-responsive-menu="drilldown medium-dropdown"
+      <ul class="dropdown vertical large-horizontal menu" data-responsive-menu="drilldown medium-dropdown"
         data-auto-height="true" data-animate-height="true">
         <?php foreach($site->mainnavigation()->toStructure() as $navigation): ?>
         <li <?php e($navigation->url() == $page->url(), 'class="active"') ?>><a aria-label="<?php echo $navigation->text() ?>"
@@ -32,7 +32,6 @@
           <?php endif ?>
         </li>
         <?php endforeach ?>
-        </ul>
         <li class="search"><a href="/search">Search
             <svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px"
               height="20px" viewBox="0 0 20 20" version="1.1">

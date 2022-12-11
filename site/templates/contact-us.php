@@ -6,7 +6,7 @@
 
 <?php snippet('header') ?>
 
-<main id="main" tab-index="-1">
+<main id="main">
   <section class="contact">
     <h1><?= $page->title()->html() ?></h1>
     <div class="contact--block">

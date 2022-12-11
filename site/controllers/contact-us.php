@@ -22,6 +22,8 @@ return function($kirby, $pages, $page) {
         $rules = [
             'name'  => ['required', 'minLength' => 3],
             'email' => ['required', 'email'],
+            'landline'  => ['num', 'minLength' => 10],
+            'mobile'  => ['num', 'minLength' => 10],
             'text'  => ['required', 'minLength' => 3, 'maxLength' => 3000],
         ];
 
@@ -29,7 +31,7 @@ return function($kirby, $pages, $page) {
             'name'  => 'Please enter a valid name',
             'email' => 'Please enter a valid email address',
             'landline' => 'Please enter a valid uk landline number',
-            'email' => 'Please enter a valid uk mobile',
+            'mobile' => 'Please enter a valid uk mobile',
             'text'  => 'Please enter a text between 3 and 3000 characters'
         ];
 
@@ -41,13 +43,16 @@ return function($kirby, $pages, $page) {
         } else {
             try {
                 $kirby->email([
-                    'template' => 'email',
-                    'from'     => 'kjl@kjl-solicitors.co.uk',
+                    'template' => 'contactform',
+                    'from'     => 'will@fatbuddhadesigns.co.uk',
                     'replyTo'  => $data['email'],
-                    'to'       => 'kjl@kjl-solicitors.co.uk',
+                    'to'       => 'will@fatbuddhadesigns.co.uk',
                     'subject'  => esc($data['name']) . ' sent you a message from your contact form',
                     'data'     => [
                         'text'   => esc($data['text']),
+                        'email' => esc($data['email']),
+                        'landline'   => esc($data['landline']),
+                        'mobile' => esc($data['mobile']),
                         'sender' => esc($data['name'])
                     ]
                 ]);

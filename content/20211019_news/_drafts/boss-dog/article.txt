@@ -1,0 +1,25 @@
+Title: Boss Dog
+
+----
+
+Coverimage: 
+
+----
+
+Text: 
+
+----
+
+Description: 
+
+----
+
+Pageimage: 
+
+----
+
+Robotsindex: index
+
+----
+
+Robotsfollow: follow

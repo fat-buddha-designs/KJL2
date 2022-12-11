@@ -1,0 +1,11 @@
+Title: How To Change Navigation Menus
+----
+Text:
+
+To add a page link to a navigation menu is very simple. Firstly on the front page of the CMS, click on the 'Navigation' tab.
+
+Choose which navigation menu you wish to add the new page link to and click the 'Add' button at the top of that menu list. This will display a pop up list, choose 'Kirby Link', this will display another pop up list which contains all the pages of your website, from the list click on the '+' symbol beside the page that you want to add and then click 'Ok' at the bottom of the pop up display.
+
+Your page link will now be added to the menu list, to reposition the page link within the menu list you can hover over the four pale  dots to the left of the page link and the icon will change to a four pronged cross, hold your mouse down over these dots and drag the page link to where you want it in the list and let go of the mouse.
+
+Now click on 'Save' at the bottom of the page and you will find your page link in the navigation menu of your website.

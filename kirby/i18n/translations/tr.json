@@ -340,7 +340,7 @@
   "license": "Lisans",
   "license.buy": "Bir lisans satın al",
   "license.register": "Kayıt Ol",
-  "license.manage": "Manage your licenses",
+  "license.manage": "Lisanslarınızı yönetin",
   "license.register.help": "Satın alma işleminden sonra e-posta yoluyla lisans kodunuzu aldınız. Lütfen kayıt olmak için kodu kopyalayıp yapıştırın.",
   "license.register.label": "Lütfen lisans kodunu giriniz",
   "license.register.success": "Kirby'yi desteklediğiniz için teşekkürler",
@@ -360,7 +360,7 @@
   "lock.unlock": "Kilidi Aç",
   "lock.isUnlocked": "Kaydedilmemiş değişikliklerin üzerine başka bir kullanıcı yazmış. Değişikliklerinizi el ile birleştirmek için değişikliklerinizi indirebilirsiniz.",
 
-  "login": "Giri\u015f",
+  "login": "Giriş",
   "login.code.label.login": "Giriş kodu",
   "login.code.label.password-reset": "Şifre sıfırlama kodu",
   "login.code.placeholder.email": "000 000",

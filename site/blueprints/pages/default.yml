@@ -28,34 +28,30 @@ tabs:
         label: Page Content
         editor:
         type: markdown
-        font:
-          family: sans-serif
-          scaling: false
-          size: regular
+        font: sans-serif
+        size: medium
         buttons:
-          - headlines
-              - h1
-              - h2
-              - h3
-              - h4
-              - h5
-              - h6
+          headlines:
+            - h1
+            - h2
+            - h3
+            - h4
+            - h5
+            - h6
           - bold
           - italic
+          - strikethrough
+          - hr
           - ul
           - ol
-          - link
-          - email
           - blockquote
-          - horizontal-rule
-          - strikethrough
-          - pagelink
           - file
-          - footnote
-        files: page.images
+          - pagelink
+          link:
+            blank: true
 
   seo:
     type: fields
     label: Page SEO
     fields:
-      meta: fields/pageseo 
+      meta: fields/pageseo

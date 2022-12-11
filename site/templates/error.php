@@ -6,7 +6,7 @@
 
 <?php snippet('header') ?>
 
-<main id="main" tab-index="-1">
+<main id="main">
   <section>
     <h1><?= $page->pageheadline()->or($page->title())->html() ?></h1>
     <p>We're sorry. The page you are looking for can't be found.

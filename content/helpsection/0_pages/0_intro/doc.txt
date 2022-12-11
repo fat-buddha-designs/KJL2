@@ -1,0 +1,15 @@
+Title: How To Add Pages
+
+----
+Text:
+
+To add pages, click on the add button just to the top right of the pages list.
+Add a page title, making sure to use capitalised words and the word 'and' rather than the symbol '&' in the title.
+You don't need to adjust the Url appendix.
+Use the Default Page as a template, click on 'Create Draft'.
+
+Next add a Page Headline and some page content following the help section on Text for formatting etc.
+
+Once you are happy with the page content you will need to add the SEO data for the page by clicking on 'Page Seo' which is the tab next to 'Page Content', this helps with search rankings for the page.
+
+Once on the 'Page Seo' page you will need to fill in the relevant data and add an image and description (this can be the same as for the page itself). Save any changes.

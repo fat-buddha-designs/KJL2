@@ -1,15 +1,16 @@
 @font-face {
+  font-display: swap;
   font-family: 'PT Serif';
   font-style: normal;
   font-weight: 400;
   src: local('PT Serif'), local('PTSerif-Regular'),
        url('../fonts/pt-serif-v9-latin-regular.woff2') format('woff2'),
-       url('../fonts/pt-serif-v9-latin-regular.woff') format('woff'),
-       url('../fonts/pt-serif-v9-latin-regular.ttf') format('ttf');
+       url('../fonts/pt-serif-v9-latin-regular.woff') format('woff');
 }
 
 
 @font-face {
+  font-display: swap;
   font-family: 'Pontano Sans';
   font-style: normal;
   font-weight: 400;
@@ -50,9 +51,9 @@
     28px
   );
   --heading-h5: clamp(
-    18px,
+    20px,
     calc((20 / (var(--default-screen) / 100)) * 1vw),
-    24px
+    22px
   );
   --heading-h6: clamp(
     14px,
@@ -97,6 +98,22 @@ h6 {
   font-size: var(--heading-h6);
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  --l-spacing: 0;
+  --w-spacing: 0;
+  color: inherit;
+  font-family: var(--h-font);
+  font-weight: var(--h-font-wght);
+  letter-spacing: var(--l-spacing);
+  text-align: var(--h-pos);
+  word-spacing: var(--w-spacing);
+}
+
 p,
 li,
 a,
@@ -122,21 +139,6 @@ html {
   word-spacing: var(--w-spacing);
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  --l-spacing: 0;
-  --w-spacing: 0;
-  color: inherit;
-  font-family: var(--h-font);
-  font-weight: var(--h-font-wght);
-  letter-spacing: var(--l-spacing);
-  text-align: var(--h-pos);
-  word-spacing: var(--w-spacing);
-}
 
 p {
   margin-bottom: 1em;

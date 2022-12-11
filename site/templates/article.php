@@ -6,7 +6,7 @@
 
 <?php snippet('header') ?>
 
-<main id="main" tab-index="-1">
+<main id="main">
   <section>
     <article class="post--block">
       <?php if($coverimage =  $page->coverImage()->toFile()): ?>

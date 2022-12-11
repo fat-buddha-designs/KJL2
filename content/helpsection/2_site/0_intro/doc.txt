@@ -1,0 +1,8 @@
+Title: How To Amend Site Details
+
+----
+Text:
+
+You can change any of the details that are used throughout the website, such as phone numbers etc. To change these go to the front page of the CMS and click on the 'Site Details' tab at the top of the page.
+
+Once on the Site Details page change the relevant detail and then click on the 'Save' button at the bottom of the page. Your changes will be reflected through the website.

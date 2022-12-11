@@ -2,18 +2,6 @@ Title: KJL Solicitors
 
 ----
 
-Cookie-text: Yes, we use cookies to analyze and optimize this website. You can read more about it (link: /policies#cookies text: here).
-
-----
-
-Cookie-accept: Accept
-
-----
-
-Cookie-reject: Reject
-
-----
-
 Companyname: KJL Solicitors
 
 ----
@@ -86,15 +74,11 @@ Pricerange: 100-2000
 
 ----
 
-Companylogo:
-
-- kjl_large_logo.png
+Companylogo: - kjl_large_logo.png
 
 ----
 
-Companyimage:
-
-- kjl_twitter_image.png
+Companyimage: - kjl_twitter_image.png
 
 ----
 
@@ -114,169 +98,169 @@ Twittercreator: @kjlsolicitors
 
 ----
 
+Firstemail: kjl
+
+----
+
+Secondemail: kjl-solicitors.co.uk
+
+----
+
 Mainnavigation:
 
--
+- 
   children:
-    -
+    - 
       children: [ ]
       id: about-us
       text: About Us
-      url: http://127.0.0.1:8000/about-us
+      url: /about-us
       uuid: bra1ggisbcd
-    -
+    - 
       children: [ ]
       id: contact-us
       text: Contact Us
-      url: http://127.0.0.1:8000/contact-us
+      url: /contact-us
       uuid: 85bg7hyjagg
-    -
+    - 
       children: [ ]
       id: covid-policy
       text: Covid Policy
-      url: http://127.0.0.1:8000/covid-policy
+      url: /covid-policy
       uuid: wpmk0xp8kw8
-    -
+    - 
       children: [ ]
       id: find-us
       text: Find Us
-      url: http://127.0.0.1:8000/find-us
+      url: /find-us
       uuid: d24z9wsl6ag
-    -
+    - 
       children: [ ]
       id: news
       text: News
-      url: http://127.0.0.1:8000/news
+      url: /news
       uuid: dik0j38wz4u
-    -
+    - 
       children: [ ]
       id: pricing
       text: Pricing
-      url: http://127.0.0.1:8000/pricing
+      url: /pricing
       uuid: lcgix1n90yr
-    -
+    - 
       children: [ ]
       id: testimonials
       text: Testimonials
-      url: http://127.0.0.1:8000/testimonials
+      url: /testimonials
       uuid: 8bdwhgare0r
-    -
+    - 
       children: [ ]
       id: vacancies
       text: Vacancies
-      url: http://127.0.0.1:8000/vacancies
+      url: /vacancies
       uuid: ma51wjs71
   id: home
   text: Home
-  url: http://127.0.0.1:8000
+  url: /
   uuid: lwyrl1hke6
--
+- 
   children:
-    -
+    - 
       children: [ ]
       id: business-start-up-advice
       text: Business Start Up Advice
-      url: >
-        http://127.0.0.1:8000/business-start-up-advice
+      url: /business-start-up-advice
       uuid: dgazuc6f89a
-    -
+    - 
       children: [ ]
       id: commercial-disputes
       text: Commercial Disputes
-      url: >
-        http://127.0.0.1:8000/commercial-disputes
+      url: /commercial-disputes
       uuid: zcp1tq7zhuq
-    -
+    - 
       children: [ ]
       id: formation-of-a-company
       text: Formation of a Company
-      url: >
-        http://127.0.0.1:8000/formation-of-a-company
+      url: /formation-of-a-company
       uuid: bg64tdj7ogw
-    -
+    - 
       children: [ ]
       id: partnerships
       text: Partnerships
-      url: http://127.0.0.1:8000/partnerships
+      url: /partnerships
       uuid: hkq5phob1qe
-    -
+    - 
       children: [ ]
       id: >
         restraint-of-trade-anti-competitive-market-activity
       text: 'Restraint of Trade & Anti-Competitive Market Activity'
       url: >
-        http://127.0.0.1:8000/restraint-of-trade-anti-competitive-market-activity
+        /restraint-of-trade-anti-competitive-market-activity
       uuid: 0xbm8hbvyw9
-    -
+    - 
       children: [ ]
       id: sole-traders
       text: Sole Traders
-      url: http://127.0.0.1:8000/sole-traders
+      url: /sole-traders
       uuid: p41azp3zjdd
-    -
+    - 
       children: [ ]
       id: shareholders-agreements
       text: Shareholders Agreements
-      url: >
-        http://127.0.0.1:8000/shareholders-agreements
+      url: /shareholders-agreements
       uuid: 5gdsty51l4w
-    -
+    - 
       children: [ ]
       id: terms-conditions-of-business
       text: 'Terms & Conditions of Business'
-      url: >
-        http://127.0.0.1:8000/terms-conditions-of-business
+      url: /terms-conditions-of-business
       uuid: fgvy6i4ev6i
-    -
+    - 
       children: [ ]
       id: trading-terms-conditions
       text: 'Trading Terms & Conditions'
-      url: >
-        http://127.0.0.1:8000/trading-terms-conditions
+      url: /trading-terms-conditions
       uuid: ff1vkbubyv8
   id: company-law
   text: Company Law
-  url: http://127.0.0.1:8000/company-law
+  url: /company-law
   uuid: odowvjjw1r
--
+- 
   children: [ ]
   id: consumer-law
   text: Consumer Law
-  url: http://127.0.0.1:8000/consumer-law
+  url: /consumer-law
   uuid: u8yecc8vwid
--
+- 
   children: [ ]
   id: dispute-resolution
   text: Dispute Resolution
-  url: http://127.0.0.1:8000/dispute-resolution
+  url: /dispute-resolution
   uuid: r3yxjrvq0k
--
+- 
   children:
-    -
+    - 
       children:
-        -
+        - 
           children: [ ]
           id: business-sales-affecting-the-employee
           text: Business Sales Affecting the Employee
-          url: >
-            http://127.0.0.1:8000/business-sales-affecting-the-employee
+          url: /business-sales-affecting-the-employee
           uuid: 5i5wvr7iln
-        -
+        - 
           children: [ ]
           id: >
             contracts-of-employment-terms-and-conditions-variations
           text: 'Contracts of Employment, Terms and Conditions & Variations'
           url: >
-            http://127.0.0.1:8000/contracts-of-employment-terms-and-conditions-variations
+            /contracts-of-employment-terms-and-conditions-variations
           uuid: vs11i66wh8
-        -
+        - 
           children: [ ]
           id: disciplinary-and-grievance-procedures
           text: Disciplinary and Grievance Procedures
-          url: >
-            http://127.0.0.1:8000/disciplinary-and-grievance-procedures
+          url: /disciplinary-and-grievance-procedures
           uuid: 54ej1fb81ed
-        -
+        - 
           children: [ ]
           id: >
             new-acas-code-on-disciplinary-and-grievance-procedures
@@ -284,22 +268,21 @@ Mainnavigation:
             New Acas Code on Disciplinary and
             Grievance Procedures
           url: >
-            http://127.0.0.1:8000/new-acas-code-on-disciplinary-and-grievance-procedures
+            /new-acas-code-on-disciplinary-and-grievance-procedures
           uuid: 0ba81sympq0e
-        -
+        - 
           children: [ ]
           id: redundancy
           text: Redundancy
-          url: http://127.0.0.1:8000/redundancy
+          url: /redundancy
           uuid: 84pvp7eigxh
-        -
+        - 
           children: [ ]
           id: settlement-agreements-for-the-employee
           text: Settlement Agreements for the Employee
-          url: >
-            http://127.0.0.1:8000/settlement-agreements-for-the-employee
+          url: /settlement-agreements-for-the-employee
           uuid: dpwlmjuuuo7
-        -
+        - 
           children: [ ]
           id: >
             unfair-wrongful-or-constructive-dismissal
@@ -307,281 +290,274 @@ Mainnavigation:
             Unfair,Wrongful or Constructive
             Dismissal
           url: >
-            http://127.0.0.1:8000/unfair-wrongful-or-constructive-dismissal
+            /unfair-wrongful-or-constructive-dismissal
           uuid: muvg7oyqvlk
       id: employee-law
       text: Employee Law
-      url: http://127.0.0.1:8000/employee-law
+      url: /employee-law
       uuid: 41oszd2xsv
-    -
+    - 
       children:
-        -
+        - 
           children: [ ]
           id: construction-industry
           text: Construction Industry
-          url: >
-            http://127.0.0.1:8000/construction-industry
+          url: /construction-industry
           uuid: vd7u14nchz9
-        -
+        - 
           children: [ ]
           id: contracts-of-employment
           text: Contracts of Employment
-          url: >
-            http://127.0.0.1:8000/contracts-of-employment
+          url: /contracts-of-employment
           uuid: k01g3dc345h
-        -
+        - 
           children: [ ]
           id: disciplinary-procedures
           text: Disciplinary Procedures
-          url: >
-            http://127.0.0.1:8000/disciplinary-procedures
+          url: /disciplinary-procedures
           uuid: j4w556hwyzc
-        -
+        - 
           children: [ ]
           id: managing-redundancy
           text: Managing Redundancy
-          url: >
-            http://127.0.0.1:8000/managing-redundancy
+          url: /managing-redundancy
           uuid: 40fwr7dighx
-        -
+        - 
           children: [ ]
           id: restrictive-covenants
           text: Restrictive Covenants
-          url: >
-            http://127.0.0.1:8000/restrictive-covenants
+          url: /restrictive-covenants
           uuid: 21w5qd0zggw
-        -
+        - 
           children: [ ]
           id: settlement-agreements
           text: Settlement Agreements
-          url: >
-            http://127.0.0.1:8000/settlement-agreements
+          url: /settlement-agreements
           uuid: j0v9lwjps1
-        -
+        - 
           children: [ ]
           id: transfer-of-undertakings
           text: Transfer of Undertakings
-          url: >
-            http://127.0.0.1:8000/transfer-of-undertakings
+          url: /transfer-of-undertakings
           uuid: 8binyd151ps
       id: employer-law
       text: Employer Law
-      url: http://127.0.0.1:8000/employer-law
+      url: /employer-law
       uuid: 4vnv8j97nf2
   id: employment-law
   text: Employment Law
-  url: http://127.0.0.1:8000/employment-law
+  url: /employment-law
   uuid: mpe35a8why9
--
+- 
   children:
-    -
+    - 
       children: [ ]
       id: cohabitation
       text: Cohabitation
-      url: http://127.0.0.1:8000/cohabitation
+      url: /cohabitation
       uuid: jiby27d8mso
-    -
+    - 
       children:
-        -
+        - 
           children: [ ]
           id: financial-consent-order
           text: Financial Consent Order
-          url: >
-            http://127.0.0.1:8000/financial-consent-order
+          url: /financial-consent-order
           uuid: r019ogdmu2q
-        -
+        - 
           children: [ ]
           id: fixed-fee-divorce
           text: Fixed Fee Divorce
-          url: http://127.0.0.1:8000/fixed-fee-divorce
+          url: /fixed-fee-divorce
           uuid: ksealui7g5i
-        -
+        - 
           children: [ ]
           id: grounds-for-a-divorce
           text: Grounds For A Divorce
-          url: >
-            http://127.0.0.1:8000/grounds-for-a-divorce
+          url: /grounds-for-a-divorce
           uuid: gjdkpjju9e
-        -
+        - 
           children: [ ]
           id: high-net-worth-divorce
           text: High Net Worth Divorce
-          url: >
-            http://127.0.0.1:8000/high-net-worth-divorce
+          url: /high-net-worth-divorce
           uuid: o0vyovk0gf
-        -
+        - 
           children: [ ]
           id: seven-steps-to-a-divorce
           text: Seven Steps To A Divorce
-          url: >
-            http://127.0.0.1:8000/seven-steps-to-a-divorce
+          url: /seven-steps-to-a-divorce
           uuid: cz0nk0pzwia
       id: divorce
       text: Divorce
-      url: http://127.0.0.1:8000/divorce
+      url: /divorce
       uuid: zrof3je18wj
-    -
+    - 
       children: [ ]
       id: pre-nuptial-agreements
       text: Pre–Nuptial Agreements
-      url: >
-        http://127.0.0.1:8000/pre-nuptial-agreements
+      url: /pre-nuptial-agreements
       uuid: 4tc0189m9n
-    -
+    - 
       children: [ ]
       id: probate
       text: Probate
-      url: http://127.0.0.1:8000/probate
+      url: /probate
       uuid: yfs3gcagg3a
-    -
+    - 
       children: [ ]
       id: wills
       text: Wills
-      url: http://127.0.0.1:8000/wills
+      url: /wills
       uuid: 3aqrx7hm8s
   id: law-for-individuals
   text: Law For Individuals
-  url: >
-    http://127.0.0.1:8000/law-for-individuals
+  url: /law-for-individuals
   uuid: izytr66s4aq
--
+- 
   children: [ ]
   id: intellectual-property
   text: Intellectual Property
-  url: >
-    http://127.0.0.1:8000/intellectual-property
+  url: /intellectual-property
   uuid: 2u6y0mqlbt9
--
+- 
   children:
-    -
+    - 
       children: [ ]
       id: civil-litigation
       text: Civil Litigation
-      url: http://127.0.0.1:8000/civil-litigation
+      url: /civil-litigation
       uuid: 2e32mm7ys1y
-    -
+    - 
       children: [ ]
       id: commercial-litigation
       text: Commercial Litigation
-      url: >
-        http://127.0.0.1:8000/commercial-litigation
+      url: /commercial-litigation
       uuid: ubdhhvtz7qq
   id: litigation
   text: Litigation
-  url: http://127.0.0.1:8000/litigation
+  url: /litigation
   uuid: v1aouhgl3lc
--
+- 
   children:
-    -
+    - 
       children: [ ]
       id: acquisitions-mergers-and-business-sales
       text: Acquisitions Mergers and Business Sales
-      url: >
-        http://127.0.0.1:8000/acquisitions-mergers-and-business-sales
+      url: /acquisitions-mergers-and-business-sales
       uuid: exhtw0ls68q
-    -
+    - 
       children: [ ]
       id: conveyancing-guides
       text: Conveyancing Guides
-      url: >
-        http://127.0.0.1:8000/conveyancing-guides
+      url: /conveyancing-guides
       uuid: 5yw4hmw0fpo
-    -
+    - 
       children: [ ]
       id: property-transactions
       text: Property Transactions
-      url: >
-        http://127.0.0.1:8000/property-transactions
+      url: /property-transactions
       uuid: rakpcy82rlr
   id: property
   text: Property
-  url: http://127.0.0.1:8000/property
+  url: /property
   uuid: mkv49nocvwa
 
----- 
+----
 
 Footernavigation:
 
--
+- 
   children: [ ]
   id: home
   text: Home
-  url: http://127.0.0.1:8000
+  url: /
   uuid: xfyhx5gh50o
--
+- 
   children: [ ]
   id: about-us
   text: About Us
-  url: http://127.0.0.1:8000/about-us
+  url: /about-us
   uuid: w0f4xzpobsp
--
+- 
   children: [ ]
   id: contact-us
   text: Contact Us
-  url: http://127.0.0.1:8000/contact-us
+  url: /contact-us
   uuid: m0nro4v928l
--
+- 
   children: [ ]
   id: find-us
   text: Find Us
-  url: http://127.0.0.1:8000/find-us
+  url: /find-us
   uuid: epia2v17ez
--
+- 
   children: [ ]
   id: news
   text: News
-  url: http://127.0.0.1:8000/news
+  url: /news
   uuid: vn7jikna1f
--
+- 
   children: [ ]
   id: pricing
   text: Pricing
-  url: http://127.0.0.1:8000/pricing
+  url: /pricing
   uuid: 6vn4nccw82b
 
 ----
 
 Secondfooternavigation:
 
--
+- 
   children: [ ]
   id: client-care
   text: Client Care
-  url: http://127.0.0.1:8000/client-care
+  url: /client-care
   uuid: a5hf10v6qvd
--
+- 
   children: [ ]
   id: covid-policy
   text: Covid Policy
-  url: http://127.0.0.1:8000/covid-policy
+  url: /covid-policy
   uuid: v7nlqi2fjf
--
+- 
   children: [ ]
   id: equality-and-diversity
   text: 'Equality & Diversity'
-  url: >
-    http://127.0.0.1:8000/equality-and-diversity
+  url: /equality-and-diversity
   uuid: swidssxxd3e
--
+- 
   children: [ ]
   id: testimonials
   text: Testimonials
-  url: http://127.0.0.1:8000/testimonials
+  url: /testimonials
   uuid: wlvcy54wdd
--
+- 
   children: [ ]
   id: vacancies
   text: Vacancies
-  url: http://127.0.0.1:8000/vacancies
+  url: /vacancies
   uuid: fffp4msojqe
 
 ----
 
-Youtubeurl:
+Cookie-text: Yes, we use cookies to analyze and optimize this website. You can read more about it (link: /policies#cookies text: here).
 
 ----
 
-Pinteresturl:
+Cookie-accept: Accept
+
+----
+
+Cookie-reject: Reject
+
+----
+
+Youtubeurl: 
+
+----
+
+Pinteresturl: 
 
 ----
 
@@ -981,7 +957,7 @@ Meta-description: KJL Solicitors based in Blofield, are specialists in Employmen
 
 ----
 
-Meta-canonical-url:
+Meta-canonical-url: 
 
 ----
 
@@ -1017,15 +993,15 @@ Og-url: http://www.facebook.com/pages/KJL-Solicitors-Ltd/191015737666585?sk=wall
 
 ----
 
-Og-audio:
+Og-audio: 
 
 ----
 
-Og-video:
+Og-video: 
 
 ----
 
-Og-determiner:
+Og-determiner: 
 
 ----
 
@@ -1033,27 +1009,27 @@ Og-type: website
 
 ----
 
-Og-type-article-published-time:
+Og-type-article-published-time: 
 
 ----
 
-Og-type-article-modified-time:
+Og-type-article-modified-time: 
 
 ----
 
-Og-type-article-expiration-time:
+Og-type-article-expiration-time: 
 
 ----
 
-Og-type-article-author:
+Og-type-article-author: 
 
 ----
 
-Og-type-article-section:
+Og-type-article-section: 
 
 ----
 
-Og-type-article-tag:
+Og-type-article-tag: 
 
 ----
 
@@ -1089,11 +1065,11 @@ Robots-nofollow: default
 
 ----
 
-Robots-noarchive:
+Robots-noarchive: 
 
 ----
 
-Robots-noimageindex:
+Robots-noimageindex: 
 
 ----
 

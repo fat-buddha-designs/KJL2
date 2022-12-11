@@ -30,8 +30,8 @@ header {
 
     img {
       height: auto;
-      margin-bottom: 0;
-      width: 100%;
+      margin: 1rem auto 0;
+      width: 60%;
     }
   }
 
@@ -58,12 +58,12 @@ header {
 
 .header--slogan {
   display: grid;
-  padding: 1.5rem 1rem;
+  padding: .5rem 1rem 1.5rem;
   place-content: center;
 
   p {
     font-family: var(--h-font);
-    font-size: 1.1em;
+    font-size: var(--heading-h5);
     font-weight: 400;
     line-height: 1;
     margin-bottom: .3em;
@@ -75,7 +75,12 @@ header {
   header {
     display: grid;
     grid-template-columns: 35% 35% 30%;
+    .header--logo {
 
+      img {
+        width: 100%;
+      }
+    }
   }
 }
 

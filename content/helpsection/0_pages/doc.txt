@@ -1,0 +1,5 @@
+Title: Adding Pages
+----
+
+To add a page  to a navigation menu is simple.
+
